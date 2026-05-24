@@ -21,7 +21,7 @@ body{
     left: 25vw;
     top: 10px;
     height: 25px;
-    width: 150px;
+    width: 140px;
     background-color: aqua;
     border-color: blue;
     border-radius: 10px;
@@ -39,7 +39,7 @@ body{
     left: 48vw;
     top: 10px;
     height: 25px;
-    width: 150px;
+    width: 140px;
     background-color: aqua;
     border-color: blue;
     border-radius: 10px;
@@ -57,7 +57,7 @@ body{
     left: 71vw;
     top: 10px;
     height: 25px;
-    width: 150px;
+    width: 140px;
     background-color: aqua;
     border-color: blue;
     border-radius: 10px;
@@ -81,7 +81,7 @@ body{
     left: 20px;
     top: 10px;
     height: 25px;
-    width: 150px;
+    width: 140px;
     background-color: aqua;
     border-color: blue;
     border-radius: 10px;
@@ -120,6 +120,29 @@ body{
     border-radius: 5px;
     background-color: rgb(255, 205, 140);
     transition: 0.3s;
+}
+
+
+
+@media ( max-width: 640px){
+    .chouse_lesson1{
+        top: 200px;
+    }
+    .chouse_lesson2{
+        top: 200px;
+    }
+    .chouse_lesson3{
+        top: 200px;
+    }
+    .login_singin{
+        left: 450px;
+    }
+    .open_forum2{
+        left: 310px;
+    }
+    .open_help2{
+    left: 165px;
+    }
 }
 
 :hover.chouse_lesson1{
