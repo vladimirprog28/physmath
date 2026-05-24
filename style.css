@@ -125,14 +125,14 @@ body{
 
 
 @media ( max-width: 640px){
-    .chouse_lesson1{
+    #chouse_lesson_1{
         top: 200px;
     }
-    .chouse_lesson2{
+    #chouse_lesson_2{
         top: 200px;
     }
-    .chouse_lesson3{
-        top: 200px;
+    #chouse_lesson_3{
+        top: 23SSSSSS0px;
     }
     .login_singin{
         left: 450px;
