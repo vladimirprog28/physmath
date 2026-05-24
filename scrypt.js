@@ -1,4 +1,5 @@
-let colorNumber = 0
+
+let colorNumber = 0;
 function changeColor(){
     if(colorNumber == 0){
         //замена фото
