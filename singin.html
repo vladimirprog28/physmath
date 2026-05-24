@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>singin</title>
+    <link rel="stylesheet" href="singin.css">
+    <script src="singin.js"></script>
+    <script type="module">
+        import express from "express";
+        import { Pool } from "pg";
+
+        const app = express();
+        app.use(express.json());
+
+        var pool = new Pool({
+            host: 'localhost',
+            user: 'postgres',
+            password: 'as6f3wVGS6cGGn6',
+            database: 'user_info',
+            port: '5432'
+        });
+
+        app.get('/users', async(req, res) => {
+            try{
+                const query = 'SELECT * FROM users';
+                const result = await pool.query(query);
+                res.json(result.rows);
+            }catch(err){
+                res.status(500).json({
+                    error: 'something went wrong'
+                })
+            }
+        });
+
+        app.listen(3000, () => {
+            console.log('server on PORT 3000')
+        });
+
+</script>
+</head>
+<body style="background-image: url(chalkboard-filled-with-scientific-diagrams-equations-illustrations-representing-various-concepts_972405-8787.avif); background-size: cover;">
+
+    <button class="exit" type="button" id="exit_on_main" onclick="exit_on_main()">
+        выход
+    </button>
+
+    <div class="place_singin" style="background-image: url(background-img.png); height: 700px; width: 500px; margin: auto; border-radius: 50px; border: 10px solid rgb(93, 93, 104); box-shadow: 3px 3px 10px black;">
+
+        <p class="error" id="error1"></p>
+
+        <p class="reg">
+            registration
+        </p>
+
+        <button class="registor" type="button" id="registor1" onclick="registor()">
+            регестрация
+        </button>
+    
+        <input type="text" class="login" id="login1" placeholder="login">
+        
+        <input type="email" class="email" id="email1" placeholder="email">
+        
+        <input type="password" class="password" id="password1" placeholder="password">
+        
+        <p class="login_in">есть аккаунт?</p>
+        <button class="login_login">вход</button>
+    </div>
+</body>
+</html>

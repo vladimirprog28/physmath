@@ -1,0 +1,28 @@
+{
+    "level_1":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        }
+    }
+}

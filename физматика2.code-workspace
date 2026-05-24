@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"ssh": "Disabled",
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postgresql",
+				"database": "user_info",
+				"username": "postgres",
+				"password": "as6f3wVGS6cGGn6"
+			}
+		],
+		"dbcode.connections": [
+			{
+				"connectionId": "fPWrOUh3OFn80arLv3h9y",
+				"name": "database_user_info",
+				"driver": "postgres",
+				"connectionType": "host",
+				"host": "localhost",
+				"port": 5432,
+				"ssl": false,
+				"authMethod": "password",
+				"username": "vladimir728",
+				"password": "",
+				"savePassword": "secretStorage",
+				"tunnelId": "Fi4Lzd1wf4uw7jswxi66S",
+				"database": "user_info",
+				"readOnly": false,
+				"postConnectionSqlType": "inline",
+				"connectionTimeout": 30,
+				"pinnedConnectionTimeout": "0",
+				"introspection": {
+					"progressive": false
+				}
+			}
+		]
+	}
+}

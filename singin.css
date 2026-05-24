@@ -1,0 +1,111 @@
+.login{
+    position: relative;
+    top: 150px;
+    margin: 0 121px;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: darkgray;
+    box-shadow: 5px 5px 3px black;
+    border: 5px solid greenyellow;
+}
+
+.email{
+    position: relative;
+    top: 200px;
+    margin: 0 121px;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: darkgray;
+    box-shadow: 5px 5px 3px black;
+    border: 5px solid greenyellow;
+}
+.password{
+    position: relative;
+    top: 250px;
+    margin: 0 121px;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: darkgray;
+    box-shadow: 5px 5px 3px black;
+    border: 5px solid greenyellow;
+}
+
+.registor{
+    position: relative;
+    top: 450px;
+    margin: 0 125px;
+    height: 30px;
+    width: 250px;
+    background-color: darkgray;
+    box-shadow: 5px 5px 3px rgb(89, 89, 89);
+    transition: 0.5s;
+}
+:hover.registor{
+    height: 25px;
+    width: 230px;
+    background-color: rgb(94, 94, 94);
+    box-shadow: 3px 3px 1px black;
+}
+
+.reg{
+    position: relative;
+    top: 100px;
+    margin: 0px 105px;
+    font-size: 400%;
+    color: moccasin;
+}
+
+input:placeholder-shown{
+    border: 3px solid red;
+}
+
+.login_in{
+    position: relative;
+    top: 350px;
+    left: 125px;
+    color: moccasin;
+}
+
+.login_login{
+    position: relative;
+    top: 310px;
+    left: 245px;
+    width: 100px;
+    height: 30px;
+    background-color: darkgray;
+    box-shadow: 5px 5px 10px darkgray;
+    transition: 0.5s;
+}
+:hover.login_login{
+    height: 25px;
+    width: 80px;
+    background-color: rgb(94, 94, 94);
+    box-shadow: 3px 3px 1px black;
+}
+
+.error{
+    position: fixed;
+    top: 500px;
+    margin: 0 140px;
+    color: red;
+}
+
+.exit{
+    position: relative;
+    right: 110px;
+    margin: 0 125px;
+    height: 30px;
+    width: 100px;
+    background-color: darkgray;
+    box-shadow: 5px 5px 3px rgb(89, 89, 89);
+    transition: 0.5s;
+}
+:hover.exit{
+    height: 25px;
+    width: 90px;
+    background-color: rgb(94, 94, 94);
+    box-shadow: 3px 3px 1px black;
+}
