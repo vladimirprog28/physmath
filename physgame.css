@@ -1,0 +1,24 @@
+.move_j{
+    position: fixed;
+    top: 2100px;
+    height: 400px;
+    width: 400px;
+    left: 85%;
+    background-color: gray;
+}
+.move_l{
+    position: fixed;
+    top: 2100px;
+    height: 400px;
+    width: 400px;
+    left: 2%;
+    background-color: gray;
+}
+.move_r{
+    position: fixed;
+    top: 2100px;
+    height: 400px;
+    width: 400px;
+    left: 15%;
+    background-color: gray;
+}

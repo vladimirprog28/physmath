@@ -23,6 +23,3146 @@
             "pos-y-end": 14,
             "pos-x": 14,
             "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 20,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 20,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 19,
+            "pos-x-end": 23,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 19,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 23,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 24,
+            "pos-x-end": 30,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 24,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 30,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 29,
+            "pos-x-end": 35,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 29,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 35,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 35,
+            "pos-x-end": 41,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 9,
+            "pos-y-end": 11,
+            "pos-x": 35,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 41,
+            "type": 1
+        },
+        "way_20":{
+            "pos-x-start": 45,
+            "pos-x-end": 54,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_21":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 45,
+            "type": 1
+        },
+        "way_22":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 54,
+            "type": 1
+        },
+        "way_23":{
+            "pos-x-start": 43,
+            "pos-x-end": 58,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_24":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 43,
+            "type": 1
+        },
+        "way_25":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 58,
+            "type": 1
+        },
+        "way_26":{
+            "pos-x-start": 58,
+            "pos-x-end": 64,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_27":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 58,
+            "type": 1
+        },
+        "way_28":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 64,
+            "type": 1
+        },
+        "way_29":{
+            "pos-x-start": 63,
+            "pos-x-end": 67,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_30":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 63,
+            "type": 1
+        },
+        "way_31":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 67,
+            "type": 1
+        },
+        "way_32":{
+            "pos-x-start": 68,
+            "pos-x-end": 74,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_33":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 68,
+            "type": 1
+        },
+        "way_34":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 74,
+            "type": 1
+        },
+        "way_35":{
+            "pos-x-start": 73,
+            "pos-x-end": 79,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_36":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 73,
+            "type": 1
+        },
+        "way_37":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 79,
+            "type": 1
+        },
+        "way_38":{
+            "pos-x-start": 79,
+            "pos-x-end": 85,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_39":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 79,
+            "type": 1
+        },
+        "way_40":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 85,
+            "type": 1
+        },
+        "way_41":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_42":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_43":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_44":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+
+    },
+    "level_2":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 24,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 24,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 20,
+            "pos-x-end": 24,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 20,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 24,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 29,
+            "pos-x-end": 39,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 29,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 39,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 28,
+            "pos-x-end": 35,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 28,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 35,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 44,
+            "pos-x-end": 49,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 44,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 49,
+            "type": 1
+        },
+        "way_20":{
+            "pos-x-start": 55,
+            "pos-x-end": 65,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_21":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 55,
+            "type": 1
+        },
+        "way_22":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 65,
+            "type": 1
+        },
+        "way_23":{
+            "pos-x-start": 57,
+            "pos-x-end": 62,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_24":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 57,
+            "type": 1
+        },
+        "way_25":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 62,
+            "type": 1
+        },
+        "way_26":{
+            "pos-x-start": 71,
+            "pos-x-end": 78,
+            "pos-y": 6,
+            "type": 1
+        },
+        "way_27":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 57,
+            "type": 1
+        },
+        "way_28":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 62,
+            "type": 1
+        },
+        "way_29":{
+            "pos-x-start": 67,
+            "pos-x-end": 77,
+            "pos-y": 12,
+            "type": 1
+        },
+        "way_30":{
+            "pos-y-start": 20,
+            "pos-y-end": 12,
+            "pos-x": 67,
+            "type": 1
+        },
+        "way_31":{
+            "pos-y-start": 20,
+            "pos-y-end": 12,
+            "pos-x": 77,
+            "type": 1
+        },
+        "way_32":{
+            "pos-x-start": 82,
+            "pos-x-end": 86,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_33":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 82,
+            "type": 1
+        },
+        "way_34":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 86,
+            "type": 1
+        },
+        "way_35":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_36":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_37":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_38":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_3":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 27,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 27,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 20,
+            "pos-x-end": 33,
+            "pos-y":15,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 20,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 33,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 31,
+            "pos-x-end": 44,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 31,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 44,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 48,
+            "pos-x-end": 60,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 42,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 60,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 49,
+            "pos-x-end": 60,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_18":{
+            "pos-x-strat": 49,
+            "pos-x-end": 54,
+            "pos-y": 17,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 60,
+            "type": 1
+        },
+        "way_20":{
+            "pos-y-start": 20,
+            "pos-y-end": 17,
+            "pos-x": 54,
+            "type": 1
+        },
+        "way_37":{
+            "pos-y-start": 20,
+            "pos-y-end": 1,
+            "pos-x": 54,
+            "type": 5
+        },
+        "block_1":{    
+            "pos-x": 1,
+            "pos-y": 1,
+            "type": 1
+        },
+        "way_21":{
+            "pos-x-start": 65,
+            "pos-x-end": 76,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_22":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 65,
+            "type": 1
+        },
+        "way_23":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 76,
+            "type": 1
+        },
+        "way_24":{
+            "pos-x-start": 82,
+            "pos-x-end": 86,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_25":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 82,
+            "type": 1
+        },
+        "way_26":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 86,
+            "type": 1
+        },
+        "way_27":{
+            "pos-x-start": 64,
+            "pos-x-end": 80,
+            "pos-y": 17,
+            "type": 1
+        },
+        "way_28":{
+            "pos-y-start": 20,
+            "pos-y-end": 17,
+            "pos-x": 64,
+            "type": 1
+        },
+        "way_29":{
+            "pos-y-start": 20,
+            "pos-y-end": 17,
+            "pos-x": 80,
+            "type": 1
+        },
+        "way_30":{
+            "pos-x-start": 80,
+            "pos-x-end": 86,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_31":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 80,
+            "type": 1
+        },
+        "way_32":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 86,
+            "type": 1
+        },
+        "way_33":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_34":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_35":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_36":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+
+    },
+    "level_4":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "block_1":{
+            "pos_y": 9,
+            "pos_x": 15,
+            "type": 1
+        },
+        "block_2":{
+            "pos_y": 8,
+            "pos_x": 21,
+            "type": 1
+        },
+        "block_3":{
+            "pos_y": 7,
+            "pos_x": 28,
+            "type": 1
+        },
+        "block_4":{
+            "pos_y": 7,
+            "pos_x": 35,
+            "type": 1
+        },
+        "block_5":{
+            "pos_y": 7,
+            "pos_x": 41,
+            "type": 1
+        },
+        "block_6":{
+            "pos_y": 8,
+            "pos_x": 47,
+            "type": 1
+        },
+        "block_7":{
+            "pos_y": 9,
+            "pos_x": 53,
+            "type": 1
+        },
+        "block_8":{
+            "pos_y": 8,
+            "pos_x": 58,
+            "type": 1
+        },
+        "block_9":{
+            "pos_y": 6,
+            "pos_x": 63,
+            "type": 1
+        },
+        "block_10":{
+            "pos_y": 7,
+            "pos_x": 69,
+            "type": 1
+        },
+        "block_11":{
+            "pos_y": 9,
+            "pos_x": 74,
+            "type": 1
+        },
+        "block_12":{
+            "pos_y": 10,
+            "pos_x": 81,
+            "type": 1
+        },
+        "block_13":{
+            "pos_y": 10,
+            "pos_x": 85,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_7":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_8":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_5":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 24,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 20,
+            "pos-x-end": 24,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 20,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 24,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 29,
+            "pos-x-end": 39,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 29,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 39,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 28,
+            "pos-x-end": 35,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 28,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 35,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 44,
+            "pos-x-end": 49,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 44,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 49,
+            "type": 1
+        },
+        "way_20":{
+            "pos-x-start": 55,
+            "pos-x-end": 65,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_21":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 55,
+            "type": 1
+        },
+        "way_22":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 65,
+            "type": 1
+        },
+        "way_23":{
+            "pos-x-start": 57,
+            "pos-x-end": 62,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_24":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 57,
+            "type": 1
+        },
+        "way_25":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 62,
+            "type": 1
+        },
+        "way_26":{
+            "pos-x-start": 71,
+            "pos-x-end": 78,
+            "pos-y": 6,
+            "type": 1
+        },
+        "way_27":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 57,
+            "type": 1
+        },
+        "way_28":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 62,
+            "type": 1
+        },
+        "way_29":{
+            "pos-x-start": 67,
+            "pos-x-end": 77,
+            "pos-y": 12,
+            "type": 1
+        },
+        "way_30":{
+            "pos-y-start": 20,
+            "pos-y-end": 12,
+            "pos-x": 67,
+            "type": 1
+        },
+        "way_31":{
+            "pos-y-start": 20,
+            "pos-y-end": 12,
+            "pos-x": 77,
+            "type": 1
+        },
+        "way_32":{
+            "pos-x-start": 82,
+            "pos-x-end": 86,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_33":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 82,
+            "type": 1
+        },
+        "way_34":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 86,
+            "type": 1
+        },
+        "way_35":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_36":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_37":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_38":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_6":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 26,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 26,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 32,
+            "pos-x-end": 47,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 32,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 47,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 55,
+            "pos-x-end": 69,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 55,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 69,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 76,
+            "pos-x-end": 85,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_33":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 76,
+            "type": 1
+        },
+        "way_34":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 85,
+            "type": 1
+        },
+        "way_35":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_36":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_37":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_38":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_7":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 16,
+            "pos-x-end": 38,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 16,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 38,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 47,
+            "pos-x-end": 57,
+            "pos-y": 5,
+            "type": 1
+        },
+        "way_9":{
+            "pos-x-start": 57,
+            "pos-x-end": 68,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 5,
+            "pos-y-end": 1,
+            "pos-x": 47,
+            "type": 1
+        },
+        "way_11":{
+            "pos-y-start": 9,
+            "pos-y-end": 5,
+            "pos-x": 57,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 9,
+            "pos-y-end": 5,
+            "pos-x": 68,
+            "type": 1
+        },
+        "way_13":{
+            "pos-x-start": 74,
+            "pos-x-end": 82,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_14":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 74,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 82,
+            "type": 1
+        },
+        "block_1":{
+            "pos-x": 25,
+            "pos-y": 10,
+            "type": 1
+        },
+        "block_2":{
+            "pos-x": 25,
+            "pos-y": 12,
+            "type": 8,
+            "size": 3
+        },
+        "way_16":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_17":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_18":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_8":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 22,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 22,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 26,
+            "pos-x-end": 30,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 16,
+            "pos-y-end": 11,
+            "pos-x": 30,
+            "type": 1
+        },
+        "way_10":{
+            "pos-x-start": 27,
+            "pos-x-end": 30,
+            "pos-y": 16,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 32,
+            "pos-x-end": 37,
+            "pos-y": 4,
+            "type": 2
+        },
+        "way_12":{
+            "pos-y-start": 4,
+            "pos-y-end": 1,
+            "pos-x": 32,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 4,
+            "pos-y-end": 1,
+            "pos-x": 37,
+            "type": 1
+        },
+        "way_16":{
+            "pos-x-start": 53,
+            "pos-x-end": 59,
+            "pos-y": 8,
+            "type": 3
+        },
+        "way_17":{
+            "pos-x-start": 64,
+            "pos-x-end": 72,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_18":{
+            "pos-x-start": 77,
+            "pos-x-end": 86,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_19":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_20":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_21":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_22":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_9":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 22,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 22,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 26,
+            "pos-x-end": 33,
+            "pos-y": 6,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 26,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 33,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 31,
+            "pos-x-end": 33,
+            "pos-y": 9,
+            "type": 3
+        },
+        "way_12":{
+            "pos-x-start": 36,
+            "pos-x-end": 41,
+            "pos-y": 16,
+            "type": 3
+        },
+        "way_13":{
+            "pos-x-start": 45,
+            "pos-x-end": 51,
+            "pos-y": 13,
+            "type": 3
+        },
+        "way_14":{
+            "pos-x-start": 55,
+            "pos-x-end": 64,
+            "pos-y": 4,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 4,
+            "pos-y-end": 1,
+            "pos-x": 55,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 4,
+            "pos-y-end": 1,
+            "pos-x": 64,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 68,
+            "pos-x-end": 75,
+            "pos-y": 6,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 68,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 75,
+            "type": 1
+        },
+        "way_20":{
+            "pos-x-start": 77,
+            "pos-x-end": 79,
+            "pos-y": 16,
+            "type": 1
+        },
+        "way_21":{
+            "pos-y-start": 16,
+            "pos-y-end": 9,
+            "pos-x": 79,
+            "type": 1
+        },
+        "way_22":{
+            "pos-x-start": 79,
+            "pos-x-end": 86,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_23":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_24":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_25":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_26":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_10":{
+
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 15,
+            "pos-x-end": 33,
+            "pos-y": 9,
+            "type": 7
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 15,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 33,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 41,
+            "pos-x-end": 48,
+            "pos-y": 9,
+            "type": 7
+        },
+        "way_9":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 41,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 48,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 54,
+            "pos-x-end": 64,
+            "pos-y": 10,
+            "type": 7
+        },
+        "way_12":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 54,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 64,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 69,
+            "pos-x-end": 80,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 69,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 80,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_19":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_20":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_11":{
+
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 17,
+            "pos-x-end": 28,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 17,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 28,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 19,
+            "pos_y": 9,
+            "type": 1
+        },
+        "block_2":{
+            "pos_x": 26,
+            "pos_y":9,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 33,
+            "pos-x-end": 47,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 33,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 47,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 43,
+            "pos-x-end": 46,
+            "pos-y": 9,
+            "type": 1
+        },
+        "block_4":{
+            "pos-x": 35,
+            "pos-y": 8,
+            "type": 3
+        },
+        "way_12":{
+            "pos-x-start": 44,
+            "pos-x-end": 45,
+            "pos-y": 9,
+            "type": 3
+        },
+        "way_13":{
+            "pos-x-start": 51,
+            "pos-x-end": 57,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 61,
+            "pos-x-end": 74,
+            "pos-y": 6,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 61,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 74,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 61,
+            "pos-x-end": 65,
+            "pos-y": 7,
+            "type": 2
+        },
+        "way_18":{
+            "pos-x-start": 79,
+            "pos-x-end": 87,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 79,
+            "type": 1
+        },
+        "way_20":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 87,
+            "type": 1
+        },
+        
+        "way_21":{
+            "pos-x-start": 85,
+            "pos-x-end": 86,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_22":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_23":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_24":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_25":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_12":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 17,
+            "pos-x-end": 28,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 17,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 28,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 19,
+            "pos_y": 9,
+            "type": 1,
+            "weight": 500
+        },
+        "block_2":{
+            "pos_x": 26,
+            "pos_y":9,
+            "type": 1,
+            "weight": 2000
+        },
+        "way_8":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 35,
+            "type": 1
+        },
+        "way_9":{
+            "pos-x-start": 47,
+            "pos-x-end": 53,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 47,
+            "type": 1
+        },
+        "way_11":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 53,
+            "type": 1
+        },
+        "way_12":{
+            "pos-x-start": 55,
+            "pos-x-end": 71,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 76,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 82,
+            "pos-x-end": 88,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 82,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 88,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_19":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_20":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_13":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 17,
+            "pos-x-end": 28,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 17,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 28,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 19,
+            "pos_y": 9,
+            "type": 1,
+            "weight": 500
+        },
+        "block_2":{
+            "pos_x": 26,
+            "pos_y":9,
+            "type": 1,
+            "weight": 2000
+        },
+        "way_8":{
+            "pos-x-start": 33,
+            "pos-x-end": 43,
+            "pos-y": 6,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 38,
+            "type": 1
+        },
+        "block_3":{
+            "pos-x": 33,
+            "pos-y": 7,
+            "type":1
+        },
+        "way_10":{
+            "pos-y-start": 9,
+            "pos-y-end": 7,
+            "pos-x": 34,
+            "type": 1
+        },
+        "way_11":{
+            "pos-y-start": 9,
+            "pos-y-end": 7,
+            "pos-x": 43,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 8,
+            "pos-y-end": 7,
+            "pos-x": 42,
+            "type": 1
+        },
+        "way_13":{
+            "pos-x-start": 47,
+            "pos-x-end": 53,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_14":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 47,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 53,
+            "type": 1
+        },
+        "way_16":{
+            "pos-x-start": 58,
+            "pos-x-end": 71,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 76,
+            "pos-x-end": 85,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 76,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 85,
+            "type": 1
+        },
+        "way_20":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_21":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_22":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_23":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }  
+    },
+    "level_14":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 17,
+            "pos-x-end": 28,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 17,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 28,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 22,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_2":{
+            "pos_x": 26,
+            "pos_y":9,
+            "type": 1,
+            "weight": 2000
+        },
+        "way_8":{
+            "pos-x-start": 32,
+            "pos-x-end": 48,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 32,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 48,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 53,
+            "pos-x-end": 62,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_12":{
+            "pos-x-start": 67,
+            "pos-x-end": 74,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_13":{
+            "pos-x-start": 80,
+            "pos-x-end": 87,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_20":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_21":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_22":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_23":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }  
+    },
+    "level_15":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 17,
+            "pos-x-end": 28,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 17,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 28,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 19,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_2":{
+            "pos_x": 26,
+            "pos_y": 9,
+            "type": 9
+        },
+        "way_8":{
+            "pos-x-start": 40,
+            "pos-x-end": 44,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_9":{
+            "pos-x-start": 46,
+            "pos-x-end": 51,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_10":{
+            "pos-x-start": 56,
+            "pos-x-end": 65,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_11":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 56,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 65,
+            "type": 1
+        },
+        "way_13":{
+            "pos-x-start": 70,
+            "pos-x-end": 82,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_14":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 70,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 82,
+            "type": 1
+        },
+        "way_16":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_17":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_18":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_16":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 17,
+            "pos-x-end": 85,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 17,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 85,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 24,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_2":{
+            "pos_x": 34,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_3":{
+            "pos_x": 43,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_4":{
+            "pos_x": 53,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_5":{
+            "pos_x": 69,
+            "pos_y": 9,
+            "type": 9
+        },
+        "way_8":{
+            "pos-x-start": 22,
+            "pos-x-end": 26,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_9":{
+            "pos-x-start": 32,
+            "pos-x-end": 36,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_10":{
+            "pos-x-start": 41,
+            "pos-x-end": 45,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 51,
+            "pos-x-end": 56,
+            "pos-y": 10,
+            "type": 1
+        },
+        "block_6":{
+            "pos_x": 24,
+            "pos_y": 11,
+            "type": 9
+        },
+        "block_7":{
+            "pos_x": 34,
+            "pos_y": 11,
+            "type": 9
+        },
+        "block_8":{
+            "pos_x": 43,
+            "pos_y": 11,
+            "type": 9
+        },
+        "block_9":{
+            "pos_x": 53,
+            "pos_y": 11,
+            "type": 9
+        },
+        "way_12":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        }
+    },
+    "level_17":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 17,
+            "pos-x-end": 32,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 17,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 7,
+            "pos-y-end": 1,
+            "pos-x": 32,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 48,
+            "pos-x-end": 59,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 48,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 17,
+            "pos-y-end": 1,
+            "pos-x": 59,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 48,
+            "pos-x-end": 59,
+            "pos-y": 17,
+            "type": 1
+        },
+        "way_12":{
+            "pos-x-start": 62,
+            "pos-x-end": 70,
+            "pos-y": 3,
+            "type": 1
+        },
+        "way_13":{
+            "pos-x-start": 74,
+            "pos-x-end": 85,
+            "pos-y": 10,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 30,
+            "pos_y": 8,
+            "type": 9
+        },
+        "block_2":{
+            "pos_x": 49,
+            "pos_y": 10,
+            "type": 9
+        },
+        "block_3":{
+            "pos_x": 57,
+            "pos_y": 18,
+            "type": 9
+        },
+        "way_14":{
+            "pos-x-start": 83,
+            "pos-x-end": 85,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_16":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_17":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        },
+        "way_18":{
+            "pos-x-start": 37,
+            "pos-x-end": 43,
+            "pos-y": 15,
+            "type": 1
+        }
+    },
+    "level_18":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 16,
+            "pos-x-end": 76,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 16,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 76,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 22,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_2":{
+            "pos_x": 32,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_3":{
+            "pos_x": 44,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_4":{
+            "pos_x": 55,
+            "pos_y": 9,
+            "type": 9
+        },
+        "block_5":{
+            "pos_x": 69,
+            "pos_y": 9,
+            "type": 9
+        },
+        "way_8":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_9":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 37,
+            "pos-x-end": 43,
+            "pos-y": 15,
+            "type": 1
+        }
+    },
+    "level_19":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 16,
+            "pos-x-end": 29,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 16,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 29,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 32,
+            "pos-x-end": 35,
+            "pos-y": 3,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 38,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 43,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 46,
+            "pos-x-end": 49,
+            "pos-y": 3,
+            "type": 1
+        },
+        "way_12":{
+            "pos-x-start": 53,
+            "pos-x-end": 69,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 53,
+            "type": 1
+        },
+        "way_14":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 69,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 76,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 80,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 83,
+            "pos-x-end": 87,
+            "pos-y": 3,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_19":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_20":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        },
+        "way_21":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        },
+        "block_1":{
+            "pos_x": 27,
+            "pos_y": 10,
+            "type": 8,
+            "weight": 200
+        }
+    },
+    "level_20":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 25,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 25,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 28,
+            "pos-x-end": 35,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_9":{
+            "pos-x-start": 38,
+            "pos-x-end": 44,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_10":{
+            "pos-x-start": 49,
+            "pos-x-end": 59,
+            "pos-y": 15,
+            "type": 1
+        },
+        "way_11":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 59,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 15,
+            "pos-y-end": 1,
+            "pos-x": 49,
+            "type": 1
+        },
+        "way_13":{
+            "pos-x-start": 49,
+            "pos-x-end": 59,
+            "pos-y": 6,
+            "type": 1
+        },
+        "way_14":{
+            "pos-y-start": 6,
+            "pos-y-end": 1,
+            "pos-x": 59,
+            "type": 1
+        },
+        "way_15":{
+            "pos-x-start": 64,
+            "pos-x-end": 71,
+            "pos-y": 7,
+            "type": 1
+        },
+        "way_16":{
+            "pos-x-start": 74,
+            "pos-x-end": 79,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 83,
+            "pos-x-end": 87,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_22":{
+            "pos-x-start": 51,
+            "pos-x-end": 56,
+            "pos-y": 7,
+            "type": 2
+        },
+        "way_18":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_19":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_20":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        },
+        "way_21":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        }
+    },
+    "level_21":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 13,
+            "pos-x-end": 22,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-x-start": 24,
+            "pos-x-end": 83,
+            "pos-y": 2,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        },
+        "way_10":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
+        }
+    },
+    "level_22":{
+        "way_1":{
+            "pos-x-start": 1,
+            "pos-x-end": 10,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_2":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 10,
+            "type": 1
+        },
+        "way_3":{
+            "pos-x-start": 1,
+            "pos-x-end": 14,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_4":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_5":{
+            "pos-x-start": 12,
+            "pos-x-end": 87,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 20,
+            "pos-y-end": 15,
+            "pos-x": 83,
+            "type": 1
+        },
+        "way_7":{
+            "pos-x-start": 89,
+            "pos-x-end": 100,
+            "pos-y": 11,
+            "type": 1
+        },
+        "way_8":{
+            "pos-y-start": 11,
+            "pos-y-end": 1,
+            "pos-x": 89,
+            "type": 1
+        },
+        "way_9":{
+            "pos-x-start": 83,
+            "pos-x-end": 100,
+            "pos-y": 15,
+            "type": 1
         }
     }
 }
