@@ -6,37 +6,6 @@
     <title>singin</title>
     <link rel="stylesheet" href="singin.css">
     <script src="singin.js"></script>
-    <script type="module">
-        import express from "express";
-        import { Pool } from "pg";
-
-        const app = express();
-        app.use(express.json());
-
-        var pool = new Pool({
-            host: 'localhost',
-            user: 'postgres',
-            password: 'as6f3wVGS6cGGn6',
-            database: 'user_info',
-            port: '5432'
-        });
-
-        app.get('/users', async(req, res) => {
-            try{
-                const query = 'SELECT * FROM users';
-                const result = await pool.query(query);
-                res.json(result.rows);
-            }catch(err){
-                res.status(500).json({
-                    error: 'something went wrong'
-                })
-            }
-        });
-
-        app.listen(3000, () => {
-            console.log('server on PORT 3000')
-        });
-
 </script>
 </head>
 <body style="background-image: url(chalkboard-filled-with-scientific-diagrams-equations-illustrations-representing-various-concepts_972405-8787.avif); background-size: cover;">
@@ -57,14 +26,17 @@
             регестрация
         </button>
     
-        <input type="text" class="login" id="login1" placeholder="login">
+        <input type="text" class="login" id="login1" placeholder="login" name="login">
         
-        <input type="email" class="email" id="email1" placeholder="email">
+        <input type="email" class="email" id="email1" placeholder="email" name="email">
         
-        <input type="password" class="password" id="password1" placeholder="password">
+        <input type="password" class="password" id="password1" placeholder="password" name="password_user">
         
         <p class="login_in">есть аккаунт?</p>
         <button class="login_login">вход</button>
     </div>
+
+    <?php require 'singin.php';?>
+
 </body>
 </html>

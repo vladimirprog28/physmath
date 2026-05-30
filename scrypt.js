@@ -61,7 +61,6 @@ function fixLesson(){
     document.getElementById("chouse_lesson_2").style.opacity = "1";
     document.getElementById("chouse_lesson_3").style.opacity = "1";
 
-    document.getElementById("chouse_lesson_2").style.top = 35.5 + "vw";
 }
 
 function chouse_lesson1(){

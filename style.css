@@ -110,6 +110,30 @@ body{
     margin: 10px 50px 10px 50px;
 }
 
+@media(max-width: 640px){
+    #chouse_lesson_3{
+        top: 200px;
+    }
+    #chouse_lesson_1{
+        top: 200px;
+    }
+    .login_singin{
+        left: 450px;
+    }
+    .open_forum2{
+        left: 310px;
+    }
+    .open_help2{
+    left: 165px;
+    }
+}
+
+@media(max-width: 640px){
+    #chouse_lesson_2{
+        top: 2px;
+    }
+}
+
 .chouse_lesson1{
     position: absolute;
     right: 120px;
@@ -121,9 +145,6 @@ body{
     background-color: rgb(255, 205, 140);
     transition: 0.3s;
 }
-
-
-
 :hover.chouse_lesson1{
     height: 25px;
     width: 125px;
@@ -136,12 +157,20 @@ body{
     opacity: 0;
     position: absolute;
     right: 120px;
-    top: 31.5vw;
+    top: 37.5vw;
     height: 30px;
     width: 150px;
     border: 5px solid rgb(255, 140, 0);
     border-radius: 5px;
     background-color: rgb(255, 205, 140);
+    transition: 0.3s;
+}
+:hover.chouse_lesson2{
+    height: 25px;
+    width: 125px;
+    border: 5px solid rgb(202, 111, 0);
+    border-radius: 5px;
+    background-color: rgb(170, 137, 94);
 }
 
 .chouse_lesson3{
@@ -154,6 +183,14 @@ body{
     border: 5px solid rgb(255, 140, 0);
     border-radius: 5px;
     background-color: rgb(255, 205, 140);
+    transition: 0.3s;
+}
+:hover.chouse_lesson3{
+    height: 25px;
+    width: 125px;
+    border: 5px solid rgb(202, 111, 0);
+    border-radius: 5px;
+    background-color: rgb(170, 137, 94);
 }
 
 .name_site{
@@ -417,27 +454,6 @@ body{
 }
 
 
-
-@media ( max-width: 640px){
-    #chouse_lesson_1{
-        top: 200px;
-    }
-    #chouse_lesson_2{
-        top: 200px;
-    }
-    #chouse_lesson_3{
-        top: 220px;
-    }
-    .login_singin{
-        left: 450px;
-    }
-    .open_forum2{
-        left: 310px;
-    }
-    .open_help2{
-    left: 165px;
-    }
-}
 
 :hover.chouse_lesson1{
     height: 25px;
