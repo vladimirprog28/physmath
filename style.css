@@ -6,6 +6,8 @@ body{
 /*шапка сайта*/
 
 .head{
+    display: flex;
+    justify-content: space-evenly;
     background-color: black;
     position: relative;
     width: 95%;
@@ -17,9 +19,9 @@ body{
 }
 
 .open_help2{
-    position: absolute;
-    left: 25vw;
+    position: relative;
     top: 10px;
+    margin: 10px;
     height: 25px;
     width: 140px;
     background-color: aqua;
@@ -35,9 +37,9 @@ body{
 }
 
 .open_forum2{
-    position: absolute;
-    left: 48vw;
+    position: relative;
     top: 10px;
+    margin: 10px;
     height: 25px;
     width: 140px;
     background-color: aqua;
@@ -53,9 +55,9 @@ body{
 }
 
 .login_singin{
-    position: absolute;
-    left: 71vw;
+    position: relative;
     top: 10px;
+    margin: 10px;
     height: 25px;
     width: 140px;
     background-color: aqua;
@@ -78,8 +80,8 @@ body{
 
 .button_changebg{
     position: relative;
-    left: 20px;
     top: 10px;
+    margin: 10px;
     height: 25px;
     width: 140px;
     background-color: aqua;
@@ -96,6 +98,17 @@ body{
 
 /*главная страница(верхняя часть)*/
 
+.button_c_l{
+    position: absolute;
+    top: 101px;
+    left: 45px;
+    height: 32vw;
+    width: 90%;
+    min-width: 580px;
+    min-height: 210px;
+}
+
+
 .bg_img{
     position: relative;
     display: flex;
@@ -110,34 +123,11 @@ body{
     margin: 10px 50px 10px 50px;
 }
 
-@media(max-width: 640px){
-    #chouse_lesson_3{
-        top: 200px;
-    }
-    #chouse_lesson_1{
-        top: 200px;
-    }
-    .login_singin{
-        left: 450px;
-    }
-    .open_forum2{
-        left: 310px;
-    }
-    .open_help2{
-    left: 165px;
-    }
-}
-
-@media(max-width: 640px){
-    #chouse_lesson_2{
-        top: 2px;
-    }
-}
 
 .chouse_lesson1{
     position: absolute;
     right: 120px;
-    top: 31.5vw;
+    bottom: 50px;
     height: 30px;
     width: 150px;
     border: 5px solid rgb(255, 140, 0);
@@ -153,11 +143,11 @@ body{
     background-color: rgb(170, 137, 94);
 }
 
-.chouse_lesson2{
+#chouse_lesson_2{
     opacity: 0;
     position: absolute;
     right: 120px;
-    top: 37.5vw;
+    bottom: 75px;
     height: 30px;
     width: 150px;
     border: 5px solid rgb(255, 140, 0);
@@ -177,7 +167,7 @@ body{
     opacity: 0;
     position: absolute;
     right: 120px;
-    top: 31.5vw;
+    bottom: 25px;
     height: 30px;
     width: 150px;
     border: 5px solid rgb(255, 140, 0);
@@ -334,300 +324,11 @@ body{
     min-width: 620px;
 }
 
-/*шапка сайта*/
-
-.head{
-    background-color: black;
-    position: relative;
-    width: 95%;
-    height: 50px;
-    bottom: 10px;
-    left: 5px;
-    border-radius: 10px;
-    border: 10px solid rgb(35, 35, 35);
-}
-
-.open_help2{
-    position: absolute;
-    left: 25vw;
-    top: 10px;
-    height: 25px;
-    width: 140px;
-    background-color: aqua;
-    border-color: blue;
-    border-radius: 10px;
-    transition: 0.3s;
-}
-:hover.open_help2{
-    height: 20px;
-    width: 130px;
-    background-color: rgb(0, 171, 171);
-    border-color: rgb(0, 0, 171);
-}
-
-.open_forum2{
-    position: absolute;
-    left: 48vw;
-    top: 10px;
-    height: 25px;
-    width: 140px;
-    background-color: aqua;
-    border-color: blue;
-    border-radius: 10px;
-    transition: 0.3s;
-}
-:hover.open_forum2{
-    height: 20px;
-    width: 130px;
-    background-color: rgb(0, 171, 171);
-    border-color: rgb(0, 0, 171);
-}
-
-.login_singin{
-    position: absolute;
-    left: 71vw;
-    top: 10px;
-    height: 25px;
-    width: 140px;
-    background-color: aqua;
-    border-color: blue;
-    border-radius: 10px;
-    transition: 0.3s;
-}
-:hover.login_singin{
-    height: 20px;
-    width: 130px;
-    background-color: rgb(0, 171, 171);
-    border-color: rgb(0, 0, 171);
-}
-:hover.button_changebg{
-    height: 20px;
-    width: 130px;
-    background-color: rgb(0, 171, 171);
-    border-color: rgb(0, 0, 171);
-}
-
-.button_changebg{
-    position: relative;
-    left: 20px;
-    top: 10px;
-    height: 25px;
-    width: 140px;
-    background-color: aqua;
-    border-color: blue;
-    border-radius: 10px;
-    transition: 0.3s;
-}
-:hover.button_changebg{
-    height: 20px;
-    width: 130px;
-    background-color: rgb(0, 171, 171);
-    border-color: rgb(0, 0, 171);
-}
-
-/*главная страница(верхняя часть)*/
-
-.bg_img{
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    right: 14px;
-    bottom: 500px;
-    border: 10px solid rgb(0, 65, 77);
-    border-radius: 10px 10px 10px 10px;
-    width: 90%;
-    height: 90%;
-    margin: 10px 50px 10px 50px;
-}
-
-.chouse_lesson1{
-    position: absolute;
-    right: 120px;
-    top: 31.5vw;
-    height: 30px;
-    width: 150px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-    transition: 0.3s;
-}
-
-
-
-:hover.chouse_lesson1{
-    height: 25px;
-    width: 125px;
-    border: 5px solid rgb(202, 111, 0);
-    border-radius: 5px;
-    background-color: rgb(170, 137, 94);
-}
-
-.chouse_lesson2{
-    opacity: 0;
-    position: absolute;
-    right: 120px;
-    top: 31.5vw;
-    height: 30px;
-    width: 150px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-
-.chouse_lesson3{
-    opacity: 0;
-    position: absolute;
-    right: 120px;
-    top: 31.5vw;
-    height: 30px;
-    width: 150px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-
-.name_site{
-    position: relative;
-    width: 5px;
-    bottom: 740px;
-    left: 110px;
-    color: rgb(196, 255, 154);
-}
-.bgname_site{
-    position: relative;
-    width: 5px;
-    bottom: 845px;
-    left: 110px;
-    color: rgb(0, 255, 34);
-}
-.name_site_1{
-    font-size: 25px;
-}
-
-/*главная страница(средняя часть)*/
-/*причины*/
-.page-1{
-    position: relative;
-    bottom: 500px;
-}
-
-.page{
-    position: relative;
-    top: 700px;
-    left: 65px;
-    background-color: rgb(255, 159, 43);
-    border: 5px solid darkorange;
-    height: 500px;
-    width: 85%;
-    border-radius: 10px;
-}
-
-.name_page{
-    position: relative;
-    left: 20px;
-    background-color: bisque;
-    border: 5px solid rgb(255, 193, 116);
-    width: 275px;
-    border-radius: 10px;
-}
-
-.paragraff-1{
-    position: relative;
-    height: 20px;
-    width: 400px;
-    left: 25px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-
-.paragraff-2{
-    position: relative;
-    height: 20px;
-    width: 450px;
-    top: 100px;
-    left: 25px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-.paragraff-3{
-    position: relative;
-    height: 20px;
-    width: 450px;
-    top: 200px;
-    left: 25px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-/*навигатор*/
-.page2{
-    position: relative;
-    top: 700px;
-    left: 65px;
-    background-color: rgb(255, 159, 43);
-    border: 5px solid rgb(255, 140, 0);
-    height: 250px;
-    width: 85%;
-    border-radius: 10px;
-}
-.navigator{
-    position: relative;
-    left: 20px;
-    background-color: bisque;
-    border: 5px solid rgb(255, 193, 116);
-    width: 125px;
-    border-radius: 10px;
-}
-.open{
-    position: relative;
-    height: 50px;
-    width: 200px;
-    top: 10px;
-    left: 25px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-.open_forum{
-    position: relative;
-    height: 50px;
-    width: 200px;
-    top: 10px;
-    left: 100px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-.open_help{
-    position: relative;
-    height: 50px;
-    width: 200px;
-    margin-top: 30px;
-    top: 10px;
-    left: 175px;
-    border: 5px solid rgb(255, 140, 0);
-    border-radius: 5px;
-    background-color: rgb(255, 205, 140);
-}
-
-/*главная страница(нижняя часть)*/
-
-.footer{
-    position: relative;
-    top: 1000px;
-    right: 10px;
-    height: 250px;
-    width: 100%;
-    background-color: black;
-}
 
 .open_helpfull{
     background-image: url("  ");
     position: fixed;
-    top: 550px;
+    bottom: 50px;
     left: 90%;
     height: 50px;
     width: 50px;
@@ -639,6 +340,8 @@ body{
 
 
 :hover.open_helpfull{
+    height: 40px;
+    width: 40px;
     border: 5px solid rgb(202, 111, 0);
     border-radius: 5px;
     background-color: rgb(170, 137, 94);

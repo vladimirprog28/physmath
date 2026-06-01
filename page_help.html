@@ -4,20 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>search_page</title>
+    <link rel="stylesheet" href="page_help.css">
+    <script src="page_help.js"></script>
 </head>
 <body>
     <!-- поисковой запрос -->
-    <div class="search">
-        <!-- поиск, вопрос,  -->
+    <div id="search">
+        <!-- поиск, вопрос, поиск в интернете -->
         <div>
-
+            <button class="help_button1" onclick="searc_in_site()"> поиск по сайту </button>
+            <div>
+                
+            </div>
+            <button class="help_button2" onclick="questiom_about_training()"> вопрос по обучению </button>
+            
+            <button class="help_button3" onclick="searc_in_internet()"> поиск в интернете </button>
         </div>
     </div>
 
     
     <!-- ответное окно -->
     <div>
-
+        <img src="./help_robot/robot.jpg" id="hr">
     </div>
 </body>
 </html>

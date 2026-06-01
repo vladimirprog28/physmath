@@ -74,3 +74,9 @@ function chouse_lesson2(){
 function singin(){
     window.location.replace("singin.html")
 }
+
+function open_the_helpfull(){
+    window.location.replace("page_help.html")
+}
+
+

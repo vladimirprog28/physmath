@@ -27,6 +27,27 @@
     width: 100%;
     z-index: 9;
 }
+#bg_3{
+    height: 600px;
+}
+#bg_4{
+    height: 500px;
+}
+#bg_5{
+    height: 500px;
+}
+#bg_7{
+    height: 500px;
+}
+#bg_8{
+    height: 500px;   
+}
+#bg_9{
+    height: 500px;   
+}
+#bg_10{
+    height: 500px;   
+}
 #bg_11{
     height: 400px;
     rotate: 180deg;
@@ -49,34 +70,335 @@
     right: 0px;
 }
 #sky_3{
-    top: 2750px;
+    top: 2350px;
     right: 0px;
 }
 #sky_4{
-    top: 3750px;
+    top: 2850px;
     right: 0px;
 }
 #sky_5{
-    top: 4770px;
+    top: 3370px;
     right: 0px;
 }
 #sky_6{
-    top: 5770px;
+    top: 4370px;
     right: 0px;
 }
 #sky_7{
-    top: 6780px;
+    top: 4880px;
     right: 0px;
 }
 #sky_8{
-    top: 7780px;
+    top: 5380px;
     right: 0px;
 }
 #sky_9{
-    top: 8780px;
+    top: 5880px;
     right: 0px;
 }
 #sky_10{
-    top: 9780px;
+    top: 6380px;
     right: 0px;
+}
+
+#level_1{
+    position: absolute;
+    top: 350px;
+    left: 42%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 30px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422470.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_2{
+    position: absolute;
+    top: 430px;
+    left: 58%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 30px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422470.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+#level_3{
+    position: absolute;
+    top: 525px;
+    left: 40%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 30px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422470.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#level_4{
+    position: absolute;
+    top: 650px;
+    left: 61%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 30px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422470.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#level_5{
+    position: absolute;
+    top: 770px;
+    left: 42%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 30px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422470.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_6{
+    position: absolute;
+    top: 1130px;
+    left: 47%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 30px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422480.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#level_7{
+    position: absolute;
+    top: 1230px;
+    left: 51%;
+    height: 60px;
+    width: 60px;
+    border: 3px solid black;
+    border-radius: 30px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422480.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#level_8{
+    position: absolute;
+    top: 1330px;
+    left: 42%;
+    height: 70px;
+    width: 70px;
+    border: 3px solid black;
+    border-radius: 35px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422480.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#level_9{
+    position: absolute;
+    top: 1460px;
+    left: 55%;
+    height: 80px;
+    width: 80px;
+    border: 3px solid black;
+    border-radius: 40px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422480.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#level_10{
+    position: absolute;
+    top: 1650px;
+    left: 40%;
+    height: 90px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422480.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+#level_11{
+    position: absolute;
+    top: 2170px;
+    left: 30%;
+    height: 90px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422474.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#level_12{
+    position: absolute;
+    top: 2330px;
+    left: 60%;
+    height: 90px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422474.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_13{
+    position: absolute;
+    top: 2830px;
+    left: 45%;
+    height: 90px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422467.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_14{
+    position: absolute;
+    top: 3330px;
+    left: 43%;
+    height: 90px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422464.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_15{
+    position: absolute;
+    top: 3830px;
+    left: 47%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422460.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+#level_16{
+    position: absolute;
+    top: 4030px;
+    left: 38%;
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422460.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+#level_17{
+    position: absolute;
+    top: 4230px;
+    left: 36%;
+    height: 60px;
+    width: 60px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422460.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_18{
+    position: absolute;
+    top: 4830px;
+    left: 50%;
+    height: 60px;
+    width: 60px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422457.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_19{
+    position: absolute;
+    top: 5340px;
+    left: 50%;
+    height: 80px;
+    width: 80px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422454.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_20{
+    position: absolute;
+    top: 5830px;
+    left: 47%;
+    height: 90px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422451.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_21{
+    position: absolute;
+    top: 6330px;
+    left: 47%;
+    height: 90px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422448.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#level_22{
+    position: absolute;
+    top: 6830px;
+    left: 47%;
+    height: 60px;
+    width: 60px;
+    border: 3px solid black;
+    border-radius: 45px;
+    z-index: 12;
+    background-image: url("/блоки/1780225422445.jpg");
+    background-size: cover;
+    background-position: center;
 }

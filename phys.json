@@ -104,7 +104,7 @@
         },
         "way_18":{
             "pos-y-start": 9,
-            "pos-y-end": 11,
+            "pos-y-end": 1,
             "pos-x": 35,
             "type": 1
         },
@@ -3164,5 +3164,8 @@
             "pos-y": 15,
             "type": 1
         }
+    },
+    "level_number":{
+        "n": 0
     }
 }

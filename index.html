@@ -11,9 +11,9 @@
     <!-- head сайта -->
     <div class="head">
         <button class="button_changebg" type="button" onclick="changeColor()">смена цвета фона</button>
-        <button class="login_singin" type="button" onclick="singin()">вход/регестрация</button>
         <button class="open_forum2" type="button" onclick="open_the_forum()" >форум</button>
         <button class="open_help2" type="button" onclick="open_the_help()">помощь</button>
+        <button class="login_singin" type="button" onclick="singin()">вход/регестрация</button>
     </div>
     
     <!-- причины -->
@@ -26,10 +26,11 @@
 
     <!-- верхняя часть главной страницы -->
     <img src="back-physics_ground1.png" class="bg_img" id="bg_img-1">
-
-    <button class="chouse_lesson3" id="chouse_lesson_3" type="button" onclick="chouse_lesson2()">математика</button>
-    <button class="chouse_lesson2" id="chouse_lesson_2" type="button" onclick="chouse_lesson1()">физика</button>
-    <button class="chouse_lesson1" id="chouse_lesson_1" type="button" onclick="fixLesson()">выбор урока</button>
+    <div class="button_c_l">
+        <button class="chouse_lesson3" id="chouse_lesson_3" type="button" onclick="chouse_lesson2()">математика</button>
+        <button class="chouse_lesson2" id="chouse_lesson_2" type="button" onclick="chouse_lesson1()">физика</button>
+        <button class="chouse_lesson1" id="chouse_lesson_1" type="button" onclick="fixLesson()">выбор урока</button>
+    </div>
 
     <div class="name_site_1">
         <h1 class="name_site">ᙨᑌᙐᗰᗣᙢᑌᏦᗣ</h1>
@@ -54,7 +55,7 @@
 
     <!-- вход на помощника -->
     <div>
-        <button class="open_helpfull" type="button" onclick="open_the_helpfull" id="open_helpfull"></button>
+        <button class="open_helpfull" id="open_helpfull" type="button" onclick="open_the_helpfull()"></button>
     </div>
 </body>
 </html>

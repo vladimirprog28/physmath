@@ -1,0 +1,79 @@
+body{
+    background-color: steelblue;
+}
+
+#search{
+    position: relative;
+    top: 500px;
+    height: 100px;
+    width: 96%;
+    background-color: goldenrod;
+    border: 20px solid darkorange;
+    border-radius: 20px;
+}
+
+.help_button1{
+    position: relative;
+    top: 20px;
+    margin: 0 30px 0 30px;
+    height: 70px;
+    width: 170px;
+    background-color: lightgray;
+    border: 10px solid gray;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+:hover.help_button1{
+    height: 50px;
+    width: 150px;
+    background-color: gray;
+    border: 5px solid rgb(67, 67, 67);
+    border-radius: 10px;
+}
+
+
+.help_button2{
+    position: relative;
+    top: -50px;
+    left: 230px;
+    margin: 0 30px 0 30px;
+    height: 70px;
+    width: 170px;
+    background-color: lightgray;
+    border: 10px solid gray;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+:hover.help_button2{
+    height: 50px;
+    width: 150px;
+    background-color: gray;
+    border: 5px solid rgb(67, 67, 67);
+    border-radius: 10px;
+}
+
+.help_button3{
+    position: relative;
+    top: -50px;
+    left: 230px;
+    margin: 0 30px 0 30px;
+    height: 70px;
+    width: 170px;
+    background-color: lightgray;
+    border: 10px solid gray;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+:hover.help_button3{
+    height: 50px;
+    width: 150px;
+    background-color: gray;
+    border: 5px solid rgb(67, 67, 67);
+    border-radius: 10px;
+}
+#hr{
+    position: relative;
+    top: 200px;
+    height: 100px;
+    mix-blend-mode: luminosity;
+}
