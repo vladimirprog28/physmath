@@ -202,13 +202,13 @@ var coordination = [];
 
 
 for(const varblock in block){
-    let blockx = block[varblock]['pos_x']*100-50;
-    let blocky = block[varblock]['pos_y']*100-50;
-    let pos_pers_x = blockx + 50;
-    let pos_pers_y = blocky + 50;
+    let blockx = block[varblock]['pos_x']*50+25;
+    let blocky = block[varblock]['pos_y']*50+25;
+    let pos_pers_x = blockx +25;
+    let pos_pers_y = blocky +25;
     if(block[varblock].type == 1){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundImage = url_image;
@@ -216,8 +216,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 2){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "yellow";
@@ -225,8 +225,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 3){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "green";
@@ -234,8 +234,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 4){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "orange";
@@ -243,8 +243,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 5){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "red";
@@ -252,8 +252,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 6){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darggreen";
@@ -261,8 +261,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 7){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "blue";
@@ -270,8 +270,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 8){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darkgray";
@@ -279,8 +279,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 9){
-        document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "lightgray";
@@ -296,16 +296,16 @@ for(const waykey in block){
         let block_1 = block[waykey]['pos-y-start']
         if(block_1 == undefined){
             for(let i = block[waykey]['pos-x-end']; i >= block[waykey]["pos-x-start"]; i--){
-                let x_pos = i*100-50
-                let y_pos = block[waykey]['pos-y']*100-50
-                let pos_pers_x = x_pos + 50;
-                let pos_pers_y = y_pos + 50;
+                let x_pos = i*50+25
+                let y_pos = block[waykey]['pos-y']*50+25
+                let pos_pers_x = x_pos +25;
+                let pos_pers_y = y_pos +25;
                 console.log('координаты объектов xy')
                 console.log(x_pos)
                 console.log(y_pos)
                 if(block[waykey].type == 1){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundImage = url_image;
@@ -316,8 +316,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 2){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "yellow";
@@ -325,8 +325,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 3){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "green";
@@ -334,8 +334,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 4){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "orange";
@@ -343,8 +343,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 5){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "red";
@@ -352,8 +352,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 6){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darggreen";
@@ -361,8 +361,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 7){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "blue";
@@ -370,8 +370,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 8){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darkgray";
@@ -379,8 +379,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 9){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "lightgray";
@@ -392,16 +392,16 @@ for(const waykey in block){
             }
         } else {
             for(let i = block[waykey]['pos-y-start']; i >= block[waykey]['pos-y-end']; i--){
-                let y_pos = i*100-50
-                let x_pos = block[waykey]['pos-x']*100-50
-                let pos_pers_x = x_pos + 50;
-                let pos_pers_y = y_pos + 50;
+                let y_pos = i*50+25
+                let x_pos = block[waykey]['pos-x']*50+25
+                let pos_pers_x = x_pos +25;
+                let pos_pers_y = y_pos +25;
                 console.log('координаты объектов yx')
                 console.log(x_pos)
                 console.log(y_pos)
                 if(block[waykey].type == 1){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundImage = url_image;
@@ -412,8 +412,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 2){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "yellow";
@@ -421,8 +421,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 3){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "green";
@@ -430,8 +430,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 4){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "orange";
@@ -439,8 +439,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 5){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "red";
@@ -448,8 +448,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 6){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darggreen";
@@ -457,8 +457,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 7){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "blue";
@@ -466,8 +466,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 8){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darkgray";
@@ -475,8 +475,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 9){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 100+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 100+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "lightgray";
@@ -504,7 +504,7 @@ const collisionObjects = document.querySelectorAll('.object_1');
 
 // Настройки физики
 const physics = {
-  gravity: 0.3,
+  gravity: 0.5,
   jumpForce: -15,
   moveSpeed: 7,
   friction: 0.8
@@ -512,13 +512,13 @@ const physics = {
 
 // Размеры персонажа
 const characterSize = {
-  width: 50,
-  height: 100
+  width:50,
+  height: 50
 };
 
 // Состояние персонажа
 const state = {
-  x: 100, // Начальная позиция по X
+  x: 50, // Начальная позиция по X
   y: 600, // Начальная позиция по Y
   velX: 0, // Скорость по X
   velY: 0, // Скорость по Y
@@ -625,14 +625,14 @@ function checkCollisionsWithObjects() {
   }
 }
 
-// Функция телепортации при достижении координаты X = 2000
+// Функция телепортации при достижении координаты Y = 2000
 function checkTeleport() {
   if (state.y >= 2000) {
-    // Телепортируем в начало (X = 100)
-    state.x = 100;
+    // Телепортируем в начало (X = 50)
+    state.x = 50;
     state.y = 600
     // Сохраняем текущую высоту (Y)
-    // Можно также сбросить Y: state.y = 300; если нужно
+    // Можно также сбросить Y: state.y = 600; если нужно
 
     // Обнуляем скорости для плавности
     state.velX = 0;
