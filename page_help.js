@@ -9,10 +9,10 @@ function questiom_about_training(){
     search + 2;
 }
 
-function questiom_about_training(){
+function searc_in_internet(){
     search + 3;
 }
 
 if(search == 1){
-
+    document.getElementById("sis").style.opacity = 1;
 }
