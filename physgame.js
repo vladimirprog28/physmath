@@ -14,11 +14,11 @@ if(savedDataString){
 
 const elelel = document.getElementById("el_1")
 let block = "";
-let url_image = 'url("./1780225422470.jpg")';
+let url_image = 'url("./178025422470.jpg")';
 
 if(level_number == 1){
     block = level.level_1
-    url_image = 'url("./1780225422470.jpg")';
+    url_image = 'url("./178025422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -26,7 +26,7 @@ if(level_number == 1){
 }
 if(level_number == 2){
     block = level.level_2
-  url_image = 'url("./1780225422470.jpg")';
+  url_image = 'url("./178025422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -34,7 +34,7 @@ if(level_number == 2){
 }
 if(level_number == 3){
     block = level.level_3
-    url_image = 'url("./1780225422470.jpg")';
+    url_image = 'url("./178025422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -42,7 +42,7 @@ if(level_number == 3){
 }
 if(level_number == 4){
     block = level.level_4
-    url_image = 'url("./1780225422470.jpg")';
+    url_image = 'url("./178025422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -50,7 +50,7 @@ if(level_number == 4){
 }
 if(level_number == 5){
     block = level.level_5
-    url_image = 'url("./1780225422470.jpg")';
+    url_image = 'url("./178025422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -58,7 +58,7 @@ if(level_number == 5){
 }
 if(level_number == 6){
     block = level.level_6
-    url_image = 'url("./1780225422480.jpg")';
+    url_image = 'url("./178025422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -66,7 +66,7 @@ if(level_number == 6){
 }
 if(level_number == 7){
     block = level.level_7
-    url_image = 'url("./1780225422480.jpg")';
+    url_image = 'url("./178025422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -74,7 +74,7 @@ if(level_number == 7){
 }
 if(level_number == 8){
     block = level.level_8
-    url_image = 'url("./1780225422480.jpg")';
+    url_image = 'url("./178025422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -82,7 +82,7 @@ if(level_number == 8){
 }
 if(level_number == 9){
     block = level.level_9
-    url_image = 'url("./1780225422480.jpg")';
+    url_image = 'url("./178025422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -90,7 +90,7 @@ if(level_number == 9){
 }
 if(level_number == 10){
     block = level.level_10
-    url_image = 'url("./1780225422480.jpg")';
+    url_image = 'url("./178025422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -98,7 +98,7 @@ if(level_number == 10){
 }
 if(level_number == 11){
     block = level.level_11
-    url_image = 'url("./1780225422474.jpg")';
+    url_image = 'url("./178025422474.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -106,7 +106,7 @@ if(level_number == 11){
 }
 if(level_number == 12){
     block = level.level_12
-    url_image = 'url("./1780225422474.jpg")';
+    url_image = 'url("./178025422474.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -114,7 +114,7 @@ if(level_number == 12){
 }
 if(level_number == 13){
     block = level.level_13
-    url_image = 'url("./1780225422474.jpg")';
+    url_image = 'url("./178025422474.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -122,7 +122,7 @@ if(level_number == 13){
 }
 if(level_number == 14){
     block = level.level_14
-    url_image = 'url("./1780225422464.jpg")';
+    url_image = 'url("./178025422464.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -130,7 +130,7 @@ if(level_number == 14){
 }
 if(level_number == 15){
     block = level.level_15
-    url_image = 'url("./1780225422460.jpg")';
+    url_image = 'url("./178025422460.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -138,7 +138,7 @@ if(level_number == 15){
 }
 if(level_number == 16){
     block = level.level_16
-    url_image = 'url("./1780225422460.jpg")';
+    url_image = 'url("./178025422460.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -146,7 +146,7 @@ if(level_number == 16){
 }
 if(level_number == 17){
     block = level.level_17
-    url_image = 'url("./1780225422460.jpg")';
+    url_image = 'url("./178025422460.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -154,7 +154,7 @@ if(level_number == 17){
 }
 if(level_number == 18){
     block = level.level_18
-    url_image = 'url("./1780225422457.jpg")';
+    url_image = 'url("./178025422457.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -162,7 +162,7 @@ if(level_number == 18){
 }
 if(level_number == 19){
     block = level.level_19
-    url_image = 'url("./1780225422454.jpg")';
+    url_image = 'url("./178025422454.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -170,7 +170,7 @@ if(level_number == 19){
 }
 if(level_number == 20){
     block = level.level_20
-    url_image = 'url("./1780225422451.jpg")';
+    url_image = 'url("./178025422451.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -178,7 +178,7 @@ if(level_number == 20){
 }
 if(level_number == 21){
     block = level.level_21
-    url_image = 'url("./1780225422448.jpg")';
+    url_image = 'url("./178025422448.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -186,7 +186,7 @@ if(level_number == 21){
 }
 if(level_number == 22){
     block = level.level_22
-    url_image = 'url("./1780225422445.jpg")';
+    url_image = 'url("./178025422445.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -204,11 +204,11 @@ var coordination = [];
 for(const varblock in block){
     let blockx = block[varblock]['pos_x']*10+5;
     let blocky = block[varblock]['pos_y']*10+5;
-    let pos_pers_x = blockx +25;
-    let pos_pers_y = blocky +25;
+    let pos_pers_x = blockx +5;
+    let pos_pers_y = blocky +5;
     if(block[varblock].type == 1){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundImage = url_image;
@@ -216,8 +216,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 2){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "yellow";
@@ -225,8 +225,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 3){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "green";
@@ -234,8 +234,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 4){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "orange";
@@ -243,8 +243,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 5){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "red";
@@ -252,8 +252,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 6){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darggreen";
@@ -261,8 +261,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 7){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "blue";
@@ -270,8 +270,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 8){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darkgray";
@@ -279,8 +279,8 @@ for(const varblock in block){
 
     }
     if(block[varblock].type == 9){
-        document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-        document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+        document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+        document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
         document.getElementById("pos_1-"+[last_id]).style.left = blockx + "px";
         document.getElementById("pos_1-"+[last_id]).style.bottom = blocky + "px";
         document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "lightgray";
@@ -298,14 +298,14 @@ for(const waykey in block){
             for(let i = block[waykey]['pos-x-end']; i >= block[waykey]["pos-x-start"]; i--){
                 let x_pos = i*10+5
                 let y_pos = block[waykey]['pos-y']*10+5
-                let pos_pers_x = x_pos +25;
-                let pos_pers_y = y_pos +25;
+                let pos_pers_x = x_pos +5;
+                let pos_pers_y = y_pos +5;
                 console.log('координаты объектов xy')
                 console.log(x_pos)
                 console.log(y_pos)
                 if(block[waykey].type == 1){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundImage = url_image;
@@ -316,8 +316,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 2){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "yellow";
@@ -325,8 +325,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 3){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "green";
@@ -334,8 +334,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 4){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "orange";
@@ -343,8 +343,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 5){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "red";
@@ -352,8 +352,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 6){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darggreen";
@@ -361,8 +361,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 7){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "blue";
@@ -370,8 +370,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 8){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darkgray";
@@ -379,8 +379,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 9){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "lightgray";
@@ -392,16 +392,16 @@ for(const waykey in block){
             }
         } else {
             for(let i = block[waykey]['pos-y-start']; i >= block[waykey]['pos-y-end']; i--){
-                let y_pos = i*50+25
-                let x_pos = block[waykey]['pos-x']*50+25
-                let pos_pers_x = x_pos +25;
-                let pos_pers_y = y_pos +25;
+                let y_pos = i*10+5
+                let x_pos = block[waykey]['pos-x']*10+5
+                let pos_pers_x = x_pos +5;
+                let pos_pers_y = y_pos +5;
                 console.log('координаты объектов yx')
                 console.log(x_pos)
                 console.log(y_pos)
                 if(block[waykey].type == 1){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundImage = url_image;
@@ -412,8 +412,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 2){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "yellow";
@@ -421,8 +421,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 3){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "green";
@@ -430,8 +430,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 4){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "orange";
@@ -439,8 +439,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 5){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "red";
@@ -448,8 +448,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 6){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darggreen";
@@ -457,8 +457,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 7){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "blue";
@@ -466,8 +466,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 8){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "darkgray";
@@ -475,8 +475,8 @@ for(const waykey in block){
             
                 }
                 if(block[waykey].type == 9){
-                    document.getElementById("pos_1-"+[last_id]).style.height = 50+"px";
-                    document.getElementById("pos_1-"+[last_id]).style.width = 50+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.height = 10+"px";
+                    document.getElementById("pos_1-"+[last_id]).style.width = 10+"px";
                     document.getElementById("pos_1-"+[last_id]).style.bottom = y_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.left = x_pos+"px";
                     document.getElementById("pos_1-"+[last_id]).style.backgroundColor = "lightgray";
@@ -504,16 +504,16 @@ const collisionObjects = document.querySelectorAll('.object_1');
 
 // Настройки физики
 const physics = {
-  gravity: 2,
+  gravity: 25,
   jumpForce: -15,
-  moveSpeed: 1.4,
+  moveSpeed: 1.2,
   friction: 0.8
 };
 
 // Размеры персонажа
 const characterSize = {
-  width:50,
-  height: 50
+  width:10,
+  height: 10
 };
 
 // Состояние персонажа
@@ -628,8 +628,8 @@ function checkCollisionsWithObjects() {
 // Функция телепортации при достижении координаты Y = 2000
 function checkTeleport() {
   if (state.y >= 2000) {
-    // Телепортируем в начало (X = 50)
-    state.x = 50;
+    // Телепортируем в начало (X = 10)
+    state.x = 10;
     state.y = 600
     // Сохраняем текущую высоту (Y)
     // Можно также сбросить Y: state.y = 600; если нужно
