@@ -11,12 +11,12 @@ function level_1(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -26,12 +26,12 @@ function level_2(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -41,12 +41,12 @@ function level_3(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -56,12 +56,12 @@ function level_4(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -71,12 +71,12 @@ function level_5(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -86,12 +86,12 @@ function level_6(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -101,12 +101,12 @@ function level_7(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -116,12 +116,12 @@ function level_8(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -131,12 +131,12 @@ function level_9(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -146,12 +146,12 @@ function level_10(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -161,12 +161,12 @@ function level_11(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -176,12 +176,12 @@ function level_12(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -191,12 +191,12 @@ function level_13(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -206,12 +206,12 @@ function level_14(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -221,12 +221,12 @@ function level_15(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -236,12 +236,12 @@ function level_16(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -251,12 +251,12 @@ function level_17(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -266,12 +266,12 @@ function level_18(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -281,12 +281,12 @@ function level_19(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -296,12 +296,12 @@ function level_20(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -311,12 +311,12 @@ function level_21(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }
@@ -326,12 +326,12 @@ function level_22(){
 
     fetch('./math.json')
         .then(Response => Response.json())
-        .then( data => {
-            data.level_number.n = level_number;
+        .then( data_math => {
+            data_math.level_number.n = level_number;
 
-            localStorage.setItem('mathData', JSON.stringify(data));
+            localStorage.setItem('mathData', JSON.stringify(data_math));
             console.log("успешно");
-            console.log(data.level_number.n);
+            console.log(data_math.level_number.n);
         })
     window.location.replace("mathgame.html")
 }

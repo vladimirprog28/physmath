@@ -1,8 +1,8 @@
-import level from './phys.json' with { type: "json" };
+import level from './math.json' with { type: "json" };
 
 let level_number = 0;
 
-const savedDataString = localStorage.getItem('physData');
+const savedDataString = localStorage.getItem('data_math');
 
 if(savedDataString){
     const data = JSON.parse(savedDataString);
