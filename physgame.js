@@ -202,8 +202,8 @@ var coordination = [];
 
 
 for(const varblock in block){
-    let blockx = block[varblock]['pos_x']*50+25;
-    let blocky = block[varblock]['pos_y']*50+25;
+    let blockx = block[varblock]['pos_x']*10+5;
+    let blocky = block[varblock]['pos_y']*10+5;
     let pos_pers_x = blockx +25;
     let pos_pers_y = blocky +25;
     if(block[varblock].type == 1){
@@ -296,8 +296,8 @@ for(const waykey in block){
         let block_1 = block[waykey]['pos-y-start']
         if(block_1 == undefined){
             for(let i = block[waykey]['pos-x-end']; i >= block[waykey]["pos-x-start"]; i--){
-                let x_pos = i*50+25
-                let y_pos = block[waykey]['pos-y']*50+25
+                let x_pos = i*10+5
+                let y_pos = block[waykey]['pos-y']*10+5
                 let pos_pers_x = x_pos +25;
                 let pos_pers_y = y_pos +25;
                 console.log('координаты объектов xy')
@@ -504,9 +504,9 @@ const collisionObjects = document.querySelectorAll('.object_1');
 
 // Настройки физики
 const physics = {
-  gravity: 0.5,
+  gravity: 2,
   jumpForce: -15,
-  moveSpeed: 7,
+  moveSpeed: 1.4,
   friction: 0.8
 };
 
@@ -518,8 +518,8 @@ const characterSize = {
 
 // Состояние персонажа
 const state = {
-  x: 50, // Начальная позиция по X
-  y: 600, // Начальная позиция по Y
+  x: 10, // Начальная позиция по X
+  y: 120, // Начальная позиция по Y
   velX: 0, // Скорость по X
   velY: 0, // Скорость по Y
   isOnGround: false, // На земле ли персонаж
