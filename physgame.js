@@ -14,11 +14,11 @@ if(savedDataString){
 
 const elelel = document.getElementById("el_1")
 let block = "";
-let url_image = 'url("./178025422470.jpg")';
+let url_image = 'url("/1780225422470.jpg")';
 
 if(level_number == 1){
     block = level.level_1
-    url_image = 'url("./178025422470.jpg")';
+    url_image = 'url("./1780225422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -26,7 +26,7 @@ if(level_number == 1){
 }
 if(level_number == 2){
     block = level.level_2
-  url_image = 'url("./178025422470.jpg")';
+  url_image = 'url("./1780225422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -34,7 +34,7 @@ if(level_number == 2){
 }
 if(level_number == 3){
     block = level.level_3
-    url_image = 'url("./178025422470.jpg")';
+    url_image = 'url("./1780225422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -42,7 +42,7 @@ if(level_number == 3){
 }
 if(level_number == 4){
     block = level.level_4
-    url_image = 'url("./178025422470.jpg")';
+    url_image = 'url("./1780225422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -50,7 +50,7 @@ if(level_number == 4){
 }
 if(level_number == 5){
     block = level.level_5
-    url_image = 'url("./178025422470.jpg")';
+    url_image = 'url("./1780225422470.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -58,7 +58,7 @@ if(level_number == 5){
 }
 if(level_number == 6){
     block = level.level_6
-    url_image = 'url("./178025422480.jpg")';
+    url_image = 'url("./1780225422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -66,7 +66,7 @@ if(level_number == 6){
 }
 if(level_number == 7){
     block = level.level_7
-    url_image = 'url("./178025422480.jpg")';
+    url_image = 'url("./1780225422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -74,7 +74,7 @@ if(level_number == 7){
 }
 if(level_number == 8){
     block = level.level_8
-    url_image = 'url("./178025422480.jpg")';
+    url_image = 'url("./1780225422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -82,7 +82,7 @@ if(level_number == 8){
 }
 if(level_number == 9){
     block = level.level_9
-    url_image = 'url("./178025422480.jpg")';
+    url_image = 'url("./1780225422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -90,7 +90,7 @@ if(level_number == 9){
 }
 if(level_number == 10){
     block = level.level_10
-    url_image = 'url("./178025422480.jpg")';
+    url_image = 'url("./1780225422480.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -98,7 +98,7 @@ if(level_number == 10){
 }
 if(level_number == 11){
     block = level.level_11
-    url_image = 'url("./178025422474.jpg")';
+    url_image = 'url("./1780225422474.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -106,7 +106,7 @@ if(level_number == 11){
 }
 if(level_number == 12){
     block = level.level_12
-    url_image = 'url("./178025422474.jpg")';
+    url_image = 'url("./1780225422474.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -114,7 +114,7 @@ if(level_number == 12){
 }
 if(level_number == 13){
     block = level.level_13
-    url_image = 'url("./178025422474.jpg")';
+    url_image = 'url("./1780225422474.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -122,7 +122,7 @@ if(level_number == 13){
 }
 if(level_number == 14){
     block = level.level_14
-    url_image = 'url("./178025422464.jpg")';
+    url_image = 'url("./1780225422464.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -130,7 +130,7 @@ if(level_number == 14){
 }
 if(level_number == 15){
     block = level.level_15
-    url_image = 'url("./178025422460.jpg")';
+    url_image = 'url("./1780225422460.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -138,7 +138,7 @@ if(level_number == 15){
 }
 if(level_number == 16){
     block = level.level_16
-    url_image = 'url("./178025422460.jpg")';
+    url_image = 'url("./1780225422460.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -146,7 +146,7 @@ if(level_number == 16){
 }
 if(level_number == 17){
     block = level.level_17
-    url_image = 'url("./178025422460.jpg")';
+    url_image = 'url("./1780225422460.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -154,7 +154,7 @@ if(level_number == 17){
 }
 if(level_number == 18){
     block = level.level_18
-    url_image = 'url("./178025422457.jpg")';
+    url_image = 'url("./1780225422457.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -162,7 +162,7 @@ if(level_number == 18){
 }
 if(level_number == 19){
     block = level.level_19
-    url_image = 'url("./178025422454.jpg")';
+    url_image = 'url("./1780225422454.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -170,7 +170,7 @@ if(level_number == 19){
 }
 if(level_number == 20){
     block = level.level_20
-    url_image = 'url("./178025422451.jpg")';
+    url_image = 'url("./1780225422451.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -178,7 +178,7 @@ if(level_number == 20){
 }
 if(level_number == 21){
     block = level.level_21
-    url_image = 'url("./178025422448.jpg")';
+    url_image = 'url("./1780225422448.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -186,7 +186,7 @@ if(level_number == 21){
 }
 if(level_number == 22){
     block = level.level_22
-    url_image = 'url("./178025422445.jpg")';
+    url_image = 'url("./1780225422445.jpg")';
     console.log(url_image)
     console.log("успешно")
     console.log(block)
@@ -492,34 +492,64 @@ for(const waykey in block){
     }
 }
 
-
 // Получаем элементы
 const pers = document.getElementById('pers');
 const moveLeftBtn = document.getElementById('move_left');
 const moveRightBtn = document.getElementById('move_right');
 const jumpBtn = document.getElementById('move_jump');
 
+// Добавляем HTML‑элементы для мобильных кнопок (если их ещё нет)
+// ИЗМЕНЕНИЕ: добавляем мобильные кнопки в DOM
+const mobileControls = document.createElement('div');
+mobileControls.id = 'mobile-controls';
+mobileControls.style.cssText = 'display: none; position: fixed; bottom: 20px; left: 0; width: 100%; z-index: 1000; justify-content: space-around;';
+
+const mobileLeft = document.createElement('button');
+mobileLeft.id = 'mobile-left';
+mobileLeft.className = 'mobile-btn';
+mobileLeft.textContent = '←';
+mobileLeft.style.cssText = 'width: 60px; height: 60px; font-size: 24px; opacity: 0.7; background: rgba(0, 0, 0, 0.5); color: white; border: none; border-radius: 50%; margin: 10px;';
+
+const mobileRight = document.createElement('button');
+mobileRight.id = 'mobile-right';
+mobileRight.className = 'mobile-btn';
+mobileRight.textContent = '→';
+mobileRight.style.cssText = mobileLeft.style.cssText;
+
+const mobileJump = document.createElement('button');
+mobileJump.id = 'mobile-jump';
+mobileJump.className = 'mobile-btn jump-btn';
+mobileJump.textContent = '↑';
+mobileJump.style.cssText = mobileLeft.style.cssText + 'position: absolute; right: 20px; bottom: 20px;';
+
+mobileControls.appendChild(mobileLeft);
+mobileControls.appendChild(mobileRight);
+mobileControls.appendChild(mobileJump);
+document.body.appendChild(mobileControls);
+
 // Получаем все объекты для коллизии
 const collisionObjects = document.querySelectorAll('.object_1');
 
 // Настройки физики
 const physics = {
-  gravity: 25,
-  jumpForce: -15,
-  moveSpeed: 1.2,
-  friction: 0.8
+  gravity: 0.1,
+  jumpForce: -3.5,
+  moveSpeed: 2,
+  friction: 0.5,
+  acceleration: 0.1,    // ускорение при старте
+  maxSpeed: 1.5           // максимальная горизонтальная скорость
 };
 
 // Размеры персонажа
 const characterSize = {
-  width:10,
+  width: 10,
   height: 10
 };
 
 // Состояние персонажа
 const state = {
   x: 10, // Начальная позиция по X
-  y: 120, // Начальная позиция по Y
+  y: 70, // Начальная позиция по Y
   velX: 0, // Скорость по X
   velY: 0, // Скорость по Y
   isOnGround: false, // На земле ли персонаж
@@ -533,17 +563,67 @@ const keyStates = {
   jump: false
 };
 
-// Обработчики зажатия и отпускания кнопок
-moveLeftBtn.addEventListener('mousedown', () => { keyStates.left = true; });
-moveLeftBtn.addEventListener('mouseup', () => { keyStates.left = false; });
-moveLeftBtn.addEventListener('mouseleave', () => { keyStates.left = false; });
+// ИЗМЕНЕНИЕ: универсальная функция для добавления обработчиков событий
+function addUniversalHandlers(element, direction) {
+  const handleStart = (e) => {
+    e.preventDefault();
+    keyStates[direction] = true;
+  };
 
-moveRightBtn.addEventListener('mousedown', () => { keyStates.right = true; });
-moveRightBtn.addEventListener('mouseup', () => { keyStates.right = false; });
-moveRightBtn.addEventListener('mouseleave', () => { keyStates.right = false; });
+  const handleEnd = (e) => {
+    e.preventDefault();
+    keyStates[direction] = false;
+  };
 
-jumpBtn.addEventListener('mousedown', () => { keyStates.jump = true; });
-jumpBtn.addEventListener('mouseup', () => { keyStates.jump = false; });
+  element.addEventListener('mousedown', handleStart);
+  element.addEventListener('mouseup', handleEnd);
+  element.addEventListener('touchstart', handleStart);
+  element.addEventListener('touchend', handleEnd);
+  element.addEventListener('mouseleave', handleEnd);
+}
+
+// ИЗМЕНЕНИЕ: настраиваем универсальные обработчики для всех кнопок
+document.addEventListener('DOMContentLoaded', () => {
+  // Компьютерные кнопки
+  addUniversalHandlers(moveLeftBtn, 'left');
+  addUniversalHandlers(moveRightBtn, 'right');
+  addUniversalHandlers(jumpBtn, 'jump');
+
+  // Мобильные кнопки
+  const mobileLeftBtn = document.getElementById('mobile-left');
+  const mobileRightBtn = document.getElementById('mobile-right');
+  const mobileJumpBtn = document.getElementById('mobile-jump');
+
+  addUniversalHandlers(mobileLeftBtn, 'left');
+  addUniversalHandlers(mobileRightBtn, 'right');
+  addUniversalHandlers(mobileJumpBtn, 'jump');
+
+  // ИЗМЕНЕНИЕ: показываем мобильные кнопки на мобильных устройствах
+  const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+  if (isMobile) {
+    document.getElementById('mobile-controls').style.display = 'flex';
+  }
+
+  // ИЗМЕНЕНИЕ: обработчики клавиатуры
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft' || e.key === 'a') {
+      keyStates.left = true;
+      e.preventDefault();
+    } else if (e.key === 'ArrowRight' || e.key === 'd') {
+      keyStates.right = true;
+      e.preventDefault();
+    } else if (e.key === ' ' || e.key === 'w' || e.key === 'ArrowUp') {
+      keyStates.jump = true;
+      e.preventDefault();
+    }
+  });
+
+  document.addEventListener('keyup', (e) => {
+    if (e.key === 'ArrowLeft' || e.key === 'a') keyStates.left = false;
+    else if (e.key === 'ArrowRight' || e.key === 'd') keyStates.right = false;
+    else if (e.key === ' ' || e.key === 'w' || e.key === 'ArrowUp') keyStates.jump = false;
+  });
+});
 
 // Функция получения размеров объектов
 function getObjectRects() {
@@ -607,7 +687,7 @@ function checkCollisionsWithObjects() {
         // Столкновение сверху (персонаж ударяется головой)
         state.y = objectRect.bottom;
         state.velY = 0;
-      } else if (minDistance === fromLeft && state.velX > 0) {
+    } else if (minDistance === fromLeft && state.velX > 0) {
         // Столкновение слева
         state.x = objectRect.left - characterSize.width;
         state.velX = 0;
@@ -627,12 +707,10 @@ function checkCollisionsWithObjects() {
 
 // Функция телепортации при достижении координаты Y = 2000
 function checkTeleport() {
-  if (state.y >= 2000) {
+  if (state.y >= 200) {
     // Телепортируем в начало (X = 10)
     state.x = 10;
-    state.y = 600
-    // Сохраняем текущую высоту (Y)
-    // Можно также сбросить Y: state.y = 600; если нужно
+    state.y = 70;
 
     // Обнуляем скорости для плавности
     state.velX = 0;
@@ -648,44 +726,47 @@ function checkTeleport() {
 
 // Функция обновления позиции персонажа
 function updatePosition() {
-  // Сброс горизонтальной скорости, если нет зажатых кнопок движения
-  if (!keyStates.left && !keyStates.right) {
-    state.velX *= physics.friction;
-    // Округление до 0, если скорость очень мала
-    if (Math.abs(state.velX) < 0.1) state.velX = 0;
+  // Обработка нажатий с плавным ускорением
+  if (keyStates.left) {
+    state.velX -= physics.acceleration;
+    if (state.velX < -physics.maxSpeed) state.velX = -physics.maxSpeed;
+  } else if (keyStates.right) {
+    state.velX += physics.acceleration;
+    if (state.velX > physics.maxSpeed) state.velX = physics.maxSpeed;
+  } else {
+    // Плавное замедление
+    if (state.velX !== 0) {
+      const newVelX = state.velX * physics.friction;
+      if (Math.abs(newVelX) < 0.1) state.velX = 0;
+      else state.velX = newVelX;
+    }
   }
 
-  // Обработка зажатых кнопок
-  if (keyStates.left) state.velX = -physics.moveSpeed;
-  if (keyStates.right) state.velX = physics.moveSpeed;
-
-  // Прыжок при зажатой кнопке и на земле
+  // Прыжок
   if (keyStates.jump && state.isOnGround && !state.isJumping) {
     state.velY = physics.jumpForce;
     state.isOnGround = false;
     state.isJumping = true;
   }
 
-  // Применяем гравитацию, только если не на земле
+  // Гравитация
   if (!state.isOnGround) {
     state.velY += physics.gravity;
   }
 
-  // Обновляем позицию
+  // Обновление позиции
   state.x += state.velX;
   state.y += state.velY;
 
-  // Проверяем коллизию с объектами
+  // Проверка коллизий и телепортации
   checkCollisionsWithObjects();
-
-  // Проверяем условие телепортации
   checkTeleport();
 
-  // Ограничиваем движение по горизонтали (опционально)
+  // Ограничения по краям экрана
   if (state.x < 0) state.x = 0;
   if (state.y < 0) state.y = 0;
 
-  // Обновляем визуальную позицию элемента
+  // Визуальное обновление
   pers.style.left = Math.round(state.x) + 'px';
   pers.style.top = Math.round(state.y) + 'px';
 }
@@ -696,5 +777,7 @@ function gameLoop() {
   requestAnimationFrame(gameLoop);
 }
 
-// Запускаем игровой цикл
-gameLoop();
+// Запускаем игровой цикл после полной загрузки DOM
+document.addEventListener('DOMContentLoaded', () => {
+  gameLoop();
+});
