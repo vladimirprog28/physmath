@@ -977,7 +977,6 @@ function updatePosition() {
   state.x += state.velX;
   state.y += state.velY;
   const objectRects = getObjectRects();
-  checkMobileCollision(characterRect, objectRects);
   
   checkCollisionsWithObjects();
   checkTeleport();
