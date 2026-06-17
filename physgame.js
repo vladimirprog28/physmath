@@ -976,6 +976,16 @@ function updatePosition() {
   }
   state.x += state.velX;
   state.y += state.velY;
+
+  const characterRect = {
+    left: state.x,
+    top: state.y,
+    right: state.x + characterSize.width,
+    bottom: state.y + characterSize.height
+  };
+  const objectRects = getObjectRects();
+  checkMobileCollision(characterRect, objectRects);
+  
   checkCollisionsWithObjects();
   checkTeleport();
   if (state.x < 0) state.x = 0;
@@ -1088,6 +1098,121 @@ function getTypeUnderPlayerFast() {
   return (typeof type === 'number' && Number.isInteger(type) && type > 0) ? type : null;
 }
 
+function checkMobileCollision(characterRect, objectRects) {
+  let collided = false;
+  const now = performance.now();
+
+  objectRects.forEach(objectRect => {
+    const type = Number(objectRect.element.dataset.type || 0);
+
+    if (!checkCollision(characterRect, objectRect)) {
+      return;
+    }
+
+    // Безопасный блок (type 2): только коллизия, без урона
+    if (type === 2) {
+      const fromTop = Math.abs(characterRect.bottom - objectRect.top);
+      const fromBottom = Math.abs(characterRect.top - objectRect.bottom);
+      const fromLeft = Math.abs(characterRect.right - objectRect.left);
+      const fromRight = Math.abs(characterRect.left - objectRect.right);
+      const minDistance = Math.min(fromTop, fromBottom, fromLeft, fromRight);
+
+      if (minDistance === fromTop && state.velY > 0) {
+        state.y = objectRect.top - characterSize.height;
+        state.velY = 0;
+        state.isOnGround = true;
+        state.isJumping = false;
+        collided = true;
+      } else if (minDistance === fromBottom && state.velY < 0) {
+        state.y = objectRect.bottom;
+        state.velY = 0;
+      } else if (minDistance === fromLeft && state.velX > 0) {
+        state.x = objectRect.left - characterSize.width;
+        state.velX = 0;
+      } else if (minDistance === fromRight && state.velX < 0) {
+        state.x = objectRect.right;
+        state.velX = 0;
+      }
+      return; // дальше для type 2 не проверяем урон
+    }
+
+    // Если сейчас неуязвимость — урон не даём, но коллизию обрабатываем
+    if (now < state.invincibleUntil) {
+      const fromTop = Math.abs(characterRect.bottom - objectRect.top);
+      const fromBottom = Math.abs(characterRect.top - objectRect.bottom);
+      const fromLeft = Math.abs(characterRect.right - objectRect.left);
+      const fromRight = Math.abs(characterRect.left - objectRect.right);
+      const minDistance = Math.min(fromTop, fromBottom, fromLeft, fromRight);
+
+      if (minDistance === fromTop && state.velY > 0) {
+        state.y = objectRect.top - characterSize.height;
+        state.velY = 0;
+        state.isOnGround = true;
+        state.isJumping = false;
+        collided = true;
+      } else if (minDistance === fromBottom && state.velY < 0) {
+        state.y = objectRect.bottom;
+        state.velY = 0;
+      } else if (minDistance === fromLeft && state.velX > 0) {
+        state.x = objectRect.left - characterSize.width;
+        state.velX = 0;
+      } else if (minDistance === fromRight && state.velX < 0) {
+        state.x = objectRect.right;
+        state.velX = 0;
+      }
+      return;
+    }
+
+    // Урон по типам
+    if (type === 4) takeDamage(10);
+    if (type === 5) takeDamage(100);
+    if (objectRect.element.classList.contains('danger')) takeDamage(25);
+
+    // Особый тип 6: проход снизу/сбоку, блокируем только приземление сверху
+    if (type === 6) {
+      const fromTop = Math.abs(characterRect.bottom - objectRect.top);
+      // Игнорируем остальные направления — персонаж проходит
+      if (fromTop < 5 && state.velY > 0) {
+        // «мягкая» привязка к верху блока при приземлении
+        state.y = objectRect.top - characterSize.height;
+        state.velY = 0;
+        state.isOnGround = true;
+        state.isJumping = false;
+        collided = true;
+      }
+      return;
+    }
+
+    // Обычная коллизия по минимальному расстоянию
+    const fromTop = Math.abs(characterRect.bottom - objectRect.top);
+    const fromBottom = Math.abs(characterRect.top - objectRect.bottom);
+    const fromLeft = Math.abs(characterRect.right - objectRect.left);
+    const fromRight = Math.abs(characterRect.left - objectRect.right);
+    const minDistance = Math.min(fromTop, fromBottom, fromLeft, fromRight);
+
+    if (minDistance === fromTop && state.velY > 0) {
+      if (state.velY >= physics.fallDamageThreshold) applyFallDamage(state.velY);
+      state.y = objectRect.top - characterSize.height;
+      state.velY = 0;
+      state.isOnGround = true;
+      state.isJumping = false;
+      collided = true;
+    } else if (minDistance === fromBottom && state.velY < 0) {
+      state.y = objectRect.bottom;
+      state.velY = 0;
+    } else if (minDistance === fromLeft && state.velX > 0) {
+      state.x = objectRect.left - characterSize.width;
+      state.velX = 0;
+    } else if (minDistance === fromRight && state.velX < 0) {
+      state.x = objectRect.right;
+      state.velX = 0;
+    }
+  });
+
+  if (!collided) state.isOnGround = false;
+}
+
+
 
 console.log('LEVEL_NUMBER:', level_number);
 console.log('BLOCK:', block);
@@ -1095,3 +1220,6 @@ console.log('CURRENT_LEVEL_RECTS_LENGTH:', currentLevelRects.length);
 console.log('SAMPLE_RECTS:', currentLevelRects.slice(0, 5));
 console.log('BLOCK_TYPE:', typeof block);
 if (currentLevelRects.length === 0) console.warn('ВНИМАНИЕ: массив блоков пустой! Проверь JSON и buildLevelRects');
+
+
+
