@@ -64,14 +64,14 @@ input:placeholder-shown{
 
 .login_in{
     position: relative;
-    top: 350px;
+    top: 390px;
     left: 125px;
     color: moccasin;
 }
 
 .login_login{
     position: relative;
-    top: 310px;
+    top: 350px;
     left: 245px;
     width: 100px;
     height: 30px;

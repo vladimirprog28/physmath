@@ -58,3 +58,78 @@
     }
 }
 
+.exit{
+    position: fixed;
+    top: 10px;
+    left: 85%;
+    height: 10px;
+    font-size: 5px;
+    background-color: lightgray;
+}
+
+.next{
+    position: fixed;
+    left: 38%;
+    top: 50px;
+    background-color: #b9b9b9;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+:hover.next{
+    font-size: 10px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.restart{
+    position: fixed;
+    left: 36%;
+    top: 40%;
+    background-color: #b9b9b9;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+:hover.restart{
+    font-size: 10px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.exit_game{
+    position: fixed;
+    left: 42%;
+    top: 60%;
+    background-color: #b9b9b9;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+:hover.exit_game{
+    font-size: 10px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.exex{
+    position: fixed;
+    top: 20px;
+    left: 30%;
+    height: 70%;
+    width: 130px;
+    background-color: cadetblue;
+    border: 10px solid gray;
+    border-radius: 10px;
+    opacity: 0;
+}
+
+.levelel{
+    position: fixed;
+    width: 100px;
+    left: 30%;
+    color: aqua;
+    -webkit-text-stroke: 1px gold;
+    font-size: 40px;
+    opacity: 0;
+}

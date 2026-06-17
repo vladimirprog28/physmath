@@ -23,9 +23,16 @@ function registor(){
         document.getElementById('error1').innerHTML = "";
     }
     
-    use("singin.php")
 }
 
 function exit_on_main(){
     window.location.replace('index.html')
+}
+
+function singin(){
+    window.location.replace('login.html')
+}
+
+function login(){
+    window.location.replace('singin.html')
 }

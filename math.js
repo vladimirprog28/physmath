@@ -13,7 +13,7 @@ console.log('Уровень при загрузке:', level_number);
 function setLevelAndRedirect(n) {
   level_number = n;
   localStorage.setItem('currentLevel', String(n));
-  window.location.replace('physgame.html');
+  window.location.replace('mathgame.html');
 }
 
 window.exit = () => window.location.replace('index.html');
