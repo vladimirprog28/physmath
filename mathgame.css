@@ -136,9 +136,11 @@
 
 .img_graf{
     position: absolute;
-    bottom: 20px;
-    height: 83%;
-    width: 320px;
+    bottom: 37px;
+    left: 405px;
+    height: 63%;
+    width: 240px;
     background-image: url(./график.png);
-    background-size: 320px;
+    background-size: 240px;
+}
 }
