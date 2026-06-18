@@ -67,7 +67,7 @@ if(level_number == 1){
     currentLevelRects = buildLevelRects(block);
 }
 if(level_number == 2){
-    block = level.level_6
+    block = level.level_2
     url_image = 'url("./1780225422480.jpg")';
     console.log(url_image)
     console.log("успешно")
@@ -76,7 +76,7 @@ if(level_number == 2){
     currentLevelRects = buildLevelRects(block);
 }
 if(level_number == 3){
-    block = level.level_11
+    block = level.level_3
     url_image = 'url("./1780225422474.jpg")';
     console.log(url_image)
     console.log("успешно")
@@ -85,7 +85,7 @@ if(level_number == 3){
     currentLevelRects = buildLevelRects(block);
 }
 if(level_number == 4){
-    block = level.level_14
+    block = level.level_4
     url_image = 'url("./1780225422464.jpg")';
     console.log(url_image)
     console.log("успешно")
@@ -94,7 +94,7 @@ if(level_number == 4){
     currentLevelRects = buildLevelRects(block);
 }
 if(level_number == 5){
-    block = level.level_15
+    block = level.level_5
     url_image = 'url("./1780225422460.jpeg")';
     console.log(url_image)
     console.log("успешно")
@@ -103,7 +103,7 @@ if(level_number == 5){
     currentLevelRects = buildLevelRects(block);
 }
 if(level_number == 6){
-    block = level.level_18
+    block = level.level_6
     url_image = 'url("./1780225422457.jpg")';
     console.log(url_image)
     console.log("успешно")
@@ -112,7 +112,7 @@ if(level_number == 6){
     currentLevelRects = buildLevelRects(block);
 }
 if(level_number == 7){
-    block = level.level_19
+    block = level.level_7
     url_image = 'url("./1780225422454.jpeg")';
     console.log(url_image)
     console.log("успешно")
@@ -121,7 +121,7 @@ if(level_number == 7){
     currentLevelRects = buildLevelRects(block);
 }
 if(level_number == 8){
-    block = level.level_20
+    block = level.level_8
     url_image = 'url("./1780225422451.jpg")';
     console.log(url_image)
     console.log("успешно")
