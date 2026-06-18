@@ -128,7 +128,7 @@
 #level_2{
     position: absolute;
     top: 700px;
-    left: 58%;
+    left: 48%;
     height: 50px;
     width: 50px;
     border: 3px solid black;
@@ -156,7 +156,7 @@
 #level_4{
     position: absolute;
     top: 1700px;
-    left: 61%;
+    left: 44%;
     height: 50px;
     width: 50px;
     border: 3px solid black;
@@ -168,7 +168,7 @@
 }
 #level_5{
     position: absolute;
-    top: 770px;
+    top: 2200px;
     left: 42%;
     height: 50px;
     width: 50px;
@@ -182,8 +182,8 @@
 
 #level_6{
     position: absolute;
-    top: 2200px;
-    left: 47%;
+    top: 2750px;
+    left: 43%;
     height: 50px;
     width: 50px;
     border: 3px solid black;
@@ -195,8 +195,8 @@
 }
 #level_7{
     position: absolute;
-    top: 2700px;
-    left: 51%;
+    top: 3200px;
+    left: 41%;
     height: 60px;
     width: 60px;
     border: 3px solid black;
@@ -208,7 +208,7 @@
 }
 #level_8{
     position: absolute;
-    top: 3200px;
+    top: 3700px;
     left: 42%;
     height: 70px;
     width: 70px;
