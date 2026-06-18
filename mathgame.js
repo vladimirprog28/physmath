@@ -1042,7 +1042,7 @@ window.restart = function() {
 };
 window.exit_game = function() {
   document.getElementById("exex").style.opacity = 0;
-  window.location.replace("physics.html");
+  window.location.replace("math.html");
 };
 
 let lastUnderblock = 0; 
