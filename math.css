@@ -42,6 +42,9 @@
 #bg_5{
     height: 500px;
 }
+#bg_6{
+    height: 500px;
+}
 #bg_7{
     height: 500px;
 }
@@ -110,7 +113,7 @@
 
 #level_1{
     position: absolute;
-    top: 350px;
+    top: 200px;
     left: 42%;
     height: 50px;
     width: 50px;
@@ -124,7 +127,7 @@
 
 #level_2{
     position: absolute;
-    top: 430px;
+    top: 700px;
     left: 58%;
     height: 50px;
     width: 50px;
@@ -139,7 +142,7 @@
 
 #level_3{
     position: absolute;
-    top: 525px;
+    top: 1200px;
     left: 40%;
     height: 50px;
     width: 50px;
@@ -152,7 +155,7 @@
 }
 #level_4{
     position: absolute;
-    top: 650px;
+    top: 1700px;
     left: 61%;
     height: 50px;
     width: 50px;
@@ -179,7 +182,7 @@
 
 #level_6{
     position: absolute;
-    top: 1130px;
+    top: 2200px;
     left: 47%;
     height: 50px;
     width: 50px;
@@ -192,7 +195,7 @@
 }
 #level_7{
     position: absolute;
-    top: 1230px;
+    top: 2700px;
     left: 51%;
     height: 60px;
     width: 60px;
@@ -205,7 +208,7 @@
 }
 #level_8{
     position: absolute;
-    top: 1330px;
+    top: 3200px;
     left: 42%;
     height: 70px;
     width: 70px;
@@ -213,198 +216,6 @@
     border-radius: 35px;
     z-index: 12;
     background-image: url("../1780225422480.jpg");
-    background-size: cover;
-    background-position: center;
-}
-#level_9{
-    position: absolute;
-    top: 1460px;
-    left: 55%;
-    height: 80px;
-    width: 80px;
-    border: 3px solid black;
-    border-radius: 40px;
-    z-index: 12;
-    background-image: url("../1780225422480.jpg");
-    background-size: cover;
-    background-position: center;
-}
-#level_10{
-    position: absolute;
-    top: 1650px;
-    left: 40%;
-    height: 90px;
-    width: 90px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422480.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-
-#level_11{
-    position: absolute;
-    top: 2170px;
-    left: 30%;
-    height: 90px;
-    width: 90px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422474.jpg");
-    background-size: cover;
-    background-position: center;
-}
-#level_12{
-    position: absolute;
-    top: 2330px;
-    left: 60%;
-    height: 90px;
-    width: 90px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422474.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_13{
-    position: absolute;
-    top: 2830px;
-    left: 45%;
-    height: 90px;
-    width: 90px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422467.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_14{
-    position: absolute;
-    top: 3330px;
-    left: 43%;
-    height: 90px;
-    width: 90px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422464.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_15{
-    position: absolute;
-    top: 3830px;
-    left: 47%;
-    height: 50px;
-    width: 50px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422460.jpeg");
-    background-size: cover;
-    background-position: center;
-}
-#level_16{
-    position: absolute;
-    top: 4030px;
-    left: 38%;
-    height: 50px;
-    width: 50px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422460.jpeg");
-    background-size: cover;
-    background-position: center;
-}
-#level_17{
-    position: absolute;
-    top: 4230px;
-    left: 36%;
-    height: 60px;
-    width: 60px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422460.jpeg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_18{
-    position: absolute;
-    top: 4830px;
-    left: 50%;
-    height: 60px;
-    width: 60px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422457.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_19{
-    position: absolute;
-    top: 5340px;
-    left: 50%;
-    height: 80px;
-    width: 80px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422454.jpeg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_20{
-    position: absolute;
-    top: 5830px;
-    left: 47%;
-    height: 90px;
-    width: 90px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422451.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_21{
-    position: absolute;
-    top: 6330px;
-    left: 47%;
-    height: 90px;
-    width: 90px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422448.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-#level_22{
-    position: absolute;
-    top: 5330px;
-    left: 47%;
-    height: 60px;
-    width: 60px;
-    border: 3px solid black;
-    border-radius: 45px;
-    z-index: 12;
-    background-image: url("../1780225422445.jpg");
     background-size: cover;
     background-position: center;
 }
