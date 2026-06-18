@@ -3,7 +3,7 @@ let level_number = 0;
 const savedLevelStr = localStorage.getItem('currentLevel');
 if (savedLevelStr) {
   const n = Number(savedLevelStr);
-  if (!Number.isNaN(n) && n >= 1 && n <= 22) {
+  if (!Number.isNaN(n) && n >= 1 && n <= 8) {
     level_number = n;
   }
 }
@@ -18,6 +18,6 @@ function setLevelAndRedirect(n) {
 
 window.exit = () => window.location.replace('index.html');
 
-for (let i = 1; i <= 22; i++) {
+for (let i = 1; i <= 8; i++) {
   window[`level_${i}`] = () => setLevelAndRedirect(i);
 }
