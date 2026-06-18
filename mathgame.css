@@ -133,14 +133,3 @@
     font-size: 40px;
     opacity: 0;
 }
-
-.img_graf{
-    position: absolute;
-    bottom: 37px;
-    left: 405px;
-    height: 63%;
-    width: 240px;
-    background-image: url(./график.png);
-    background-size: 240px;
-}
-}
