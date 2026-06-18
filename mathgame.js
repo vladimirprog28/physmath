@@ -43,6 +43,7 @@ function buildLevelRects(block) {
 
 const savedLevelStr = localStorage.getItem('currentLevel');
 const level_number = savedLevelStr ? Number(savedLevelStr) : 0;
+const grafic = document.getElementById("grafic").style
 
 if (level_number >= 1 && level_number <= 22) {
   const currentLevelData = level[`level_${level_number}`];
@@ -74,6 +75,7 @@ if(level_number == 2){
     console.log(block)
     elelel.textContent = block.text;
     currentLevelRects = buildLevelRects(block);
+    grafic.width = 0 + "px";
 }
 if(level_number == 3){
     block = level.level_3
@@ -83,6 +85,10 @@ if(level_number == 3){
     console.log(block)
     elelel.textContent = block.text;
     currentLevelRects = buildLevelRects(block);
+    grafic.left = 295 + "px";
+    grafic.width = 260 + "px";
+    grafic.backgroundSize = 260 + "px";
+
 }
 if(level_number == 4){
     block = level.level_4
@@ -92,6 +98,7 @@ if(level_number == 4){
     console.log(block)
     elelel.textContent = block.text;
     currentLevelRects = buildLevelRects(block);
+    grafic.width = 0 + "px";
 }
 if(level_number == 5){
     block = level.level_5
@@ -101,6 +108,10 @@ if(level_number == 5){
     console.log(block)
     elelel.textContent = block.text;
     currentLevelRects = buildLevelRects(block);
+    grafic.left = 295 + "px";
+    grafic.width = 260 + "px";
+    grafic.backgroundSize = 260 + "px";
+
 }
 if(level_number == 6){
     block = level.level_6
@@ -110,6 +121,10 @@ if(level_number == 6){
     console.log(block)
     elelel.textContent = block.text;
     currentLevelRects = buildLevelRects(block);
+    grafic.left = 295 + "px";
+    grafic.width = 260 + "px";
+    grafic.backgroundSize = 260 + "px";
+
 }
 if(level_number == 7){
     block = level.level_7
@@ -119,6 +134,7 @@ if(level_number == 7){
     console.log(block)
     elelel.textContent = block.text;
     currentLevelRects = buildLevelRects(block);
+    grafic.width = 0 + "px";
 }
 if(level_number == 8){
     block = level.level_8
@@ -128,6 +144,7 @@ if(level_number == 8){
     console.log(block)
     elelel.textContent = block.text;
     currentLevelRects = buildLevelRects(block);
+    grafic.width = 0 + "px";
 }
 
 console.log(level_number)
