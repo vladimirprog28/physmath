@@ -133,3 +133,12 @@
     font-size: 40px;
     opacity: 0;
 }
+
+.img_graf{
+    position: absolute;
+    bottom: 20px;
+    height: 83%;
+    width: 320px;
+    background-image: url(./график.png);
+    background-size: 320px;
+}
