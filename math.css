@@ -27,8 +27,14 @@
     width: 100%;
     z-index: 9;
 }
+#bg_1{
+    height: 500px;
+}
+#bg_2{
+    height: 500px;
+}
 #bg_3{
-    height: 600px;
+    height: 500px;
 }
 #bg_4{
     height: 500px;
