@@ -542,90 +542,241 @@
             "pos-x": 14,
             "type": 1
         },
-        "block_1":{
-            "pos_y": 9,
-            "pos_x": 15,
-            "type": 1
-        },
-        "block_2":{
-            "pos_y": 8,
-            "pos_x": 21,
-            "type": 1
-        },
-        "block_3":{
-            "pos_y": 7,
-            "pos_x": 28,
-            "type": 1
-        },
-        "block_4":{
-            "pos_y": 7,
-            "pos_x": 35,
-            "type": 1
-        },
-        "block_5":{
-            "pos_y": 7,
-            "pos_x": 41,
-            "type": 1
-        },
-        "block_6":{
-            "pos_y": 8,
-            "pos_x": 47,
-            "type": 1
-        },
-        "block_7":{
-            "pos_y": 9,
-            "pos_x": 53,
-            "type": 1
-        },
-        "block_8":{
-            "pos_y": 8,
-            "pos_x": 58,
-            "type": 1
-        },
-        "block_9":{
-            "pos_y": 6,
-            "pos_x": 63,
-            "type": 1
-        },
-        "block_10":{
-            "pos_y": 7,
-            "pos_x": 69,
-            "type": 1
-        },
-        "block_11":{
-            "pos_y": 9,
-            "pos_x": 74,
-            "type": 1
-        },
-        "block_12":{
-            "pos_y": 10,
-            "pos_x": 81,
-            "type": 1
-        },
-        "block_13":{
-            "pos_y": 10,
-            "pos_x": 85,
-            "type": 1
-        },
         "way_5":{
+            "pos-x-start": 14,
+            "pos-x-end": 20,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_6":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 14,
+            "type": 1
+        },
+        "way_7":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 20,
+            "type": 1
+        },
+        "way_8":{
+            "pos-x-start": 19,
+            "pos-x-end": 23,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_9":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 19,
+            "type": 1
+        },
+        "way_10":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 23,
+            "type": 1
+        },
+        "way_11":{
+            "pos-x-start": 24,
+            "pos-x-end": 30,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_12":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 24,
+            "type": 1
+        },
+        "way_13":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 30,
+            "type": 1
+        },
+        "way_14":{
+            "pos-x-start": 29,
+            "pos-x-end": 35,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_15":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 29,
+            "type": 1
+        },
+        "way_16":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 35,
+            "type": 1
+        },
+        "way_17":{
+            "pos-x-start": 35,
+            "pos-x-end": 41,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_18":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 35,
+            "type": 1
+        },
+        "way_19":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 41,
+            "type": 1
+        },
+        "way_20":{
+            "pos-x-start": 45,
+            "pos-x-end": 54,
+            "pos-y": 10,
+            "type": 1
+        },
+        "way_21":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 45,
+            "type": 1
+        },
+        "way_22":{
+            "pos-y-start": 10,
+            "pos-y-end": 1,
+            "pos-x": 54,
+            "type": 1
+        },
+        "way_23":{
+            "pos-x-start": 43,
+            "pos-x-end": 58,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_24":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 43,
+            "type": 1
+        },
+        "way_25":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 58,
+            "type": 1
+        },
+        "way_26":{
+            "pos-x-start": 58,
+            "pos-x-end": 64,
+            "pos-y": 8,
+            "type": 1
+        },
+        "way_27":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 58,
+            "type": 1
+        },
+        "way_28":{
+            "pos-y-start": 8,
+            "pos-y-end": 1,
+            "pos-x": 64,
+            "type": 1
+        },
+        "way_29":{
+            "pos-x-start": 63,
+            "pos-x-end": 67,
+            "pos-y": 13,
+            "type": 1
+        },
+        "way_30":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 63,
+            "type": 1
+        },
+        "way_31":{
+            "pos-y-start": 20,
+            "pos-y-end": 13,
+            "pos-x": 67,
+            "type": 1
+        },
+        "way_32":{
+            "pos-x-start": 68,
+            "pos-x-end": 74,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_33":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 68,
+            "type": 1
+        },
+        "way_34":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 74,
+            "type": 1
+        },
+        "way_35":{
+            "pos-x-start": 73,
+            "pos-x-end": 79,
+            "pos-y": 14,
+            "type": 1
+        },
+        "way_36":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 73,
+            "type": 1
+        },
+        "way_37":{
+            "pos-y-start": 20,
+            "pos-y-end": 14,
+            "pos-x": 79,
+            "type": 1
+        },
+        "way_38":{
+            "pos-x-start": 79,
+            "pos-x-end": 85,
+            "pos-y": 9,
+            "type": 1
+        },
+        "way_39":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 79,
+            "type": 1
+        },
+        "way_40":{
+            "pos-y-start": 9,
+            "pos-y-end": 1,
+            "pos-x": 85,
+            "type": 1
+        },
+        "way_41":{
             "pos-x-start": 83,
             "pos-x-end": 100,
             "pos-y": 15,
             "type": 1
         },
-        "way_6":{
+        "way_42":{
             "pos-y-start": 20,
             "pos-y-end": 15,
             "pos-x": 83,
             "type": 1
         },
-        "way_7":{
+        "way_43":{
             "pos-x-start": 89,
             "pos-x-end": 100,
             "pos-y": 11,
             "type": 1
         },
-        "way_8":{
+        "way_44":{
             "pos-y-start": 11,
             "pos-y-end": 1,
             "pos-x": 89,
